@@ -1,0 +1,54 @@
+{
+    "description": "5 venues, only 1 vehicle and 1 driver — cannot serve all",
+    "season_year": 2025,
+    "week_number": 8,
+    "hubs": [
+        {"id": "hub-cle-001", "name": "Cleveland", "city": "Cleveland", "state": "OH", "address": "1 Hub Way", "lat": 41.4993, "lng": -81.6944}
+    ],
+    "games": [
+        {"id": "g1", "customer_id": "c1", "customer_name": "Team 1", "venue_id": "v1", "season_year": 2025, "week_number": 8, "game_date": "2025-10-25", "game_time": "13:00", "opponent": "Opp1", "is_home_game": true, "sidelines_served": "both", "season_phase": "regular"},
+        {"id": "g2", "customer_id": "c2", "customer_name": "Team 2", "venue_id": "v2", "season_year": 2025, "week_number": 8, "game_date": "2025-10-25", "game_time": "13:00", "opponent": "Opp2", "is_home_game": true, "sidelines_served": "both", "season_phase": "regular"},
+        {"id": "g3", "customer_id": "c3", "customer_name": "Team 3", "venue_id": "v3", "season_year": 2025, "week_number": 8, "game_date": "2025-10-25", "game_time": "16:00", "opponent": "Opp3", "is_home_game": true, "sidelines_served": "both", "season_phase": "regular"},
+        {"id": "g4", "customer_id": "c4", "customer_name": "Team 4", "venue_id": "v4", "season_year": 2025, "week_number": 8, "game_date": "2025-10-26", "game_time": "13:00", "opponent": "Opp4", "is_home_game": true, "sidelines_served": "both", "season_phase": "regular"},
+        {"id": "g5", "customer_id": "c5", "customer_name": "Team 5", "venue_id": "v5", "season_year": 2025, "week_number": 8, "game_date": "2025-10-26", "game_time": "16:00", "opponent": "Opp5", "is_home_game": true, "sidelines_served": "both", "season_phase": "regular"}
+    ],
+    "venues": [
+        {"id": "v1", "customer_id": "c1", "name": "Venue 1", "city": "Columbus", "state": "OH", "lat": 39.9612, "lng": -82.9988, "is_primary": true, "address": null},
+        {"id": "v2", "customer_id": "c2", "name": "Venue 2", "city": "Cincinnati", "state": "OH", "lat": 39.1031, "lng": -84.5120, "is_primary": true, "address": null},
+        {"id": "v3", "customer_id": "c3", "name": "Venue 3", "city": "Pittsburgh", "state": "PA", "lat": 40.4406, "lng": -79.9959, "is_primary": true, "address": null},
+        {"id": "v4", "customer_id": "c4", "name": "Venue 4", "city": "Detroit", "state": "MI", "lat": 42.3314, "lng": -83.0458, "is_primary": true, "address": null},
+        {"id": "v5", "customer_id": "c5", "name": "Venue 5", "city": "Indianapolis", "state": "IN", "lat": 39.7684, "lng": -86.1581, "is_primary": true, "address": null}
+    ],
+    "contract_items": [
+        {"id": "ci1", "contract_id": "ct1", "customer_id": "c1", "customer_name": "Team 1", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci2", "contract_id": "ct2", "customer_id": "c2", "customer_name": "Team 2", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci3", "contract_id": "ct3", "customer_id": "c3", "customer_name": "Team 3", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci4", "contract_id": "ct4", "customer_id": "c4", "customer_name": "Team 4", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci5", "contract_id": "ct5", "customer_id": "c5", "customer_name": "Team 5", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": null}
+    ],
+    "assets": [
+        {"id": "a1", "serial_number": "HB-001", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a2", "serial_number": "HB-002", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a3", "serial_number": "HB-003", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a4", "serial_number": "HB-004", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a5", "serial_number": "HB-005", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a6", "serial_number": "HB-006", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a7", "serial_number": "HB-007", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a8", "serial_number": "HB-008", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a9", "serial_number": "HB-009", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a10", "serial_number": "HB-010", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a11", "serial_number": "HB-011", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a12", "serial_number": "HB-012", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a13", "serial_number": "HB-013", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a14", "serial_number": "HB-014", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a15", "serial_number": "HB-015", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null}
+    ],
+    "vehicles": [
+        {"id": "veh-001", "name": "Truck-CLE-01", "type": "truck_and_trailer", "home_hub_id": "hub-cle-001", "capacity_lbs": 10000, "capacity_cuft": 800, "status": "active"}
+    ],
+    "personnel": [
+        {"id": "person-001", "name": "Solo Driver", "role": "driver", "home_hub_id": "hub-cle-001", "skills": ["cdl"], "max_drive_hrs": 11}
+    ],
+    "branding_tasks": [],
+    "asset_assignments": []
+}

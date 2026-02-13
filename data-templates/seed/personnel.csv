@@ -1,0 +1,28 @@
+name,role,home_hub,phone,email,skills,max_drive_hours,notes
+Mike Kowalski,lead_tech,Cleveland,216-555-0201,mkowalski@dragonseats.com,"CDL-A, heating systems, cooling systems, electrical",11,Hub lead; 15yr experience
+Dave Nowak,driver,Cleveland,216-555-0202,dnowak@dragonseats.com,"CDL-A, forklift",11,Primary long-haul driver
+Chris Tanner,driver,Cleveland,216-555-0203,ctanner@dragonseats.com,"CDL-A, forklift",11,Secondary driver
+Jason Briggs,driver,Cleveland,216-555-0204,jbriggs@dragonseats.com,CDL-A,11,Northeast routes
+Sarah Mitchell,service_tech,Cleveland,216-555-0205,smitchell@dragonseats.com,"heating systems, cooling systems, setup",11,
+Tom Radford,service_tech,Cleveland,216-555-0206,tradford@dragonseats.com,"heating systems, electrical, setup",11,
+Kyle Brennan,service_tech,Cleveland,216-555-0207,kbrennan@dragonseats.com,"cooling systems, setup",11,
+Angela Torres,service_tech,Cleveland,216-555-0208,atorres@dragonseats.com,"heating systems, setup, branding",11,Rebranding specialist
+Matt Harding,service_tech,Cleveland,216-555-0209,mharding@dragonseats.com,"setup, forklift, CDL-B",11,Flex driver/tech
+Jennifer Walsh,sales,Cleveland,216-555-0210,jwalsh@dragonseats.com,account management,11,Regional sales
+Rick Dominguez,lead_tech,Kansas City,816-555-0201,rdominguez@dragonseats.com,"CDL-A, heating systems, cooling systems, electrical",11,Hub lead
+Brandon Cole,driver,Kansas City,816-555-0202,bcole@dragonseats.com,"CDL-A, forklift",11,Texas routes
+Luis Garcia,driver,Kansas City,816-555-0203,lgarcia@dragonseats.com,"CDL-A, forklift",11,Mountain routes
+Derek Patton,driver,Kansas City,816-555-0204,dpatton@dragonseats.com,CDL-A,11,Central corridor
+Amy Winters,service_tech,Kansas City,816-555-0205,awinters@dragonseats.com,"heating systems, cooling systems, setup",11,
+Nathan Ford,service_tech,Kansas City,816-555-0206,nford@dragonseats.com,"heating systems, setup, branding",11,Rebranding specialist
+Tyler Simms,service_tech,Kansas City,816-555-0207,tsimms@dragonseats.com,"cooling systems, setup",11,
+Rachel Hughes,service_tech,Kansas City,816-555-0208,rhughes@dragonseats.com,"setup, forklift, CDL-B",11,Flex driver/tech
+Dan Moretti,sales,Kansas City,816-555-0209,dmoretti@dragonseats.com,account management,11,Regional sales
+Carlos Reyes,lead_tech,Jacksonville,904-555-0201,creyes@dragonseats.com,"CDL-A, heating systems, cooling systems, electrical",11,Hub lead
+James Tucker,driver,Jacksonville,904-555-0202,jtucker@dragonseats.com,"CDL-A, forklift",11,Florida routes
+Darnell Washington,driver,Jacksonville,904-555-0203,dwashington@dragonseats.com,"CDL-A, forklift",11,Southeast corridor
+Marcus Allen,service_tech,Jacksonville,904-555-0204,mallen@dragonseats.com,"cooling systems, heating systems, setup",11,
+Brittany Scott,service_tech,Jacksonville,904-555-0205,bscott@dragonseats.com,"cooling systems, setup",11,
+Kevin O'Brien,service_tech,Jacksonville,904-555-0206,kobrien@dragonseats.com,"heating systems, setup, branding",11,Rebranding specialist
+Tina Marsh,service_tech,Jacksonville,904-555-0207,tmarsh@dragonseats.com,"setup, forklift, CDL-B",11,Flex driver/tech
+Stephanie Lane,sales,Jacksonville,904-555-0208,slane@dragonseats.com,account management,11,Regional sales

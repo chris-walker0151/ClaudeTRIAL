@@ -1,0 +1,97 @@
+customer_name,sport,primary_contact_name,contact_email,contact_phone,timezone,notes
+Cleveland Browns,nfl,Bobby Monica,bobby.monica@clevelandbrowns.com,216-555-0100,America/New_York,
+Pittsburgh Steelers,nfl,Joe Williams,joe.williams@steelers.com,412-555-0101,America/New_York,
+Buffalo Bills,nfl,Mark Henderson,mark.henderson@buffalobills.com,716-555-0102,America/New_York,
+Detroit Lions,nfl,Steve Kowalski,steve.kowalski@detroitlions.com,313-555-0103,America/New_York,
+Cincinnati Bengals,nfl,Brian Hartley,brian.hartley@bengals.com,513-555-0104,America/New_York,
+Indianapolis Colts,nfl,Kevin Mays,kevin.mays@colts.com,317-555-0105,America/New_York,
+Baltimore Ravens,nfl,Derek Simmons,derek.simmons@baltimoreravens.com,410-555-0106,America/New_York,
+Philadelphia Eagles,nfl,Tony Russo,tony.russo@philadelphiaeagles.com,215-555-0107,America/New_York,
+New York Giants,nfl,Dan Peterson,dan.peterson@giants.com,201-555-0108,America/New_York,
+New York Jets,nfl,Chris Malone,chris.malone@newyorkjets.com,201-555-0109,America/New_York,
+New England Patriots,nfl,Paul Reardon,paul.reardon@patriots.com,508-555-0110,America/New_York,
+Kansas City Chiefs,nfl,Ray Dawson,ray.dawson@chiefs.com,816-555-0111,America/Chicago,
+Chicago Bears,nfl,Mike Novak,mike.novak@chicagobears.com,312-555-0112,America/Chicago,
+Minnesota Vikings,nfl,Eric Lindgren,eric.lindgren@vikings.com,612-555-0113,America/Chicago,
+Denver Broncos,nfl,Scott Palmer,scott.palmer@broncos.com,303-555-0114,America/Denver,
+Tennessee Titans,nfl,Will Crawford,will.crawford@titans.com,615-555-0115,America/Chicago,
+Green Bay Packers,nfl,Tom Schneider,tom.schneider@packers.com,920-555-0116,America/Chicago,
+Jacksonville Jaguars,nfl,Frank Aldridge,frank.aldridge@jaguars.com,904-555-0117,America/New_York,
+Miami Dolphins,nfl,Carlos Vega,carlos.vega@miamidolphins.com,305-555-0118,America/New_York,
+Tampa Bay Buccaneers,nfl,David Ruiz,david.ruiz@buccaneers.com,813-555-0119,America/New_York,
+Atlanta Falcons,nfl,James Porter,james.porter@atlantafalcons.com,404-555-0120,America/New_York,
+Carolina Panthers,nfl,Greg Lawson,greg.lawson@panthers.com,704-555-0121,America/New_York,
+Washington Commanders,nfl,Patrick Grant,patrick.grant@commanders.com,301-555-0122,America/New_York,
+New Orleans Saints,nfl,Andre Thibodeaux,andre.thibodeaux@neworleanssaints.com,504-555-0123,America/Chicago,
+Dallas Cowboys,nfl,Travis Barker,travis.barker@dallascowboys.com,817-555-0124,America/Chicago,
+Ohio State Buckeyes,ncaa_football,Richard Conley,richard.conley@ohiostatebuckeyes.com,614-555-0200,America/New_York,Big Ten
+Michigan Wolverines,ncaa_football,Doug Marsh,doug.marsh@umich.com,734-555-0201,America/New_York,Big Ten
+Michigan State Spartans,ncaa_football,Alan Becker,alan.becker@msuspartans.com,517-555-0202,America/New_York,Big Ten
+Penn State Nittany Lions,ncaa_football,Jeff Holland,jeff.holland@pennstate.com,814-555-0203,America/New_York,Big Ten
+Indiana Hoosiers,ncaa_football,Robert Pike,robert.pike@iuhoosiers.com,812-555-0204,America/New_York,Big Ten
+Purdue Boilermakers,ncaa_football,Craig Stevens,craig.stevens@purdue.com,765-555-0205,America/New_York,Big Ten
+Northwestern Wildcats,ncaa_football,Philip Grant,philip.grant@nuwildcats.com,847-555-0206,America/Chicago,Big Ten
+Illinois Fighting Illini,ncaa_football,Randy Pearson,randy.pearson@fightingillini.com,217-555-0207,America/Chicago,Big Ten
+Iowa Hawkeyes,ncaa_football,Dale Morrison,dale.morrison@hawkeyes.com,319-555-0208,America/Chicago,Big Ten
+Minnesota Golden Gophers,ncaa_football,Lars Johansson,lars.johansson@gophers.com,612-555-0209,America/Chicago,Big Ten
+Wisconsin Badgers,ncaa_football,Keith Wagner,keith.wagner@uwbadgers.com,608-555-0210,America/Chicago,Big Ten
+Rutgers Scarlet Knights,ncaa_football,Anthony Morales,anthony.morales@rutgers.com,848-555-0211,America/New_York,Big Ten
+Maryland Terrapins,ncaa_football,Marcus Young,marcus.young@terpsfootball.com,301-555-0212,America/New_York,Big Ten
+Nebraska Cornhuskers,ncaa_football,Cody Larsen,cody.larsen@huskers.com,402-555-0213,America/Chicago,Big Ten
+Pittsburgh Panthers,ncaa_football,Vincent DeLuca,vincent.deluca@pittsburghpanthers.com,412-555-0214,America/New_York,ACC
+Syracuse Orange,ncaa_football,Timothy Byrne,timothy.byrne@syracuseorange.com,315-555-0215,America/New_York,ACC
+Boston College Eagles,ncaa_football,Sean Gallagher,sean.gallagher@bceagles.com,617-555-0216,America/New_York,ACC
+Virginia Cavaliers,ncaa_football,Andrew Taylor,andrew.taylor@virginiacavaliers.com,434-555-0217,America/New_York,ACC
+Virginia Tech Hokies,ncaa_football,Nathan Cross,nathan.cross@hokies.com,540-555-0218,America/New_York,ACC
+West Virginia Mountaineers,ncaa_football,Wayne Campbell,wayne.campbell@wvumountaineers.com,304-555-0219,America/New_York,Big 12
+Cincinnati Bearcats,ncaa_football,Aaron Fields,aaron.fields@gobearcats.com,513-555-0220,America/New_York,Big 12
+Notre Dame Fighting Irish,ncaa_football,Patrick O'Malley,patrick.omalley@notredame.com,574-555-0221,America/New_York,Independent
+Oregon Ducks,ncaa_football,Jason Mercer,jason.mercer@oregonducks.com,541-555-0300,America/Los_Angeles,Big Ten
+Washington Huskies,ncaa_football,Tyler Reid,tyler.reid@washingtonhuskies.com,206-555-0301,America/Los_Angeles,Big Ten
+UCLA Bruins,ncaa_football,Carlos Mendez,carlos.mendez@uclabruins.com,310-555-0302,America/Los_Angeles,Big Ten
+USC Trojans,ncaa_football,Ryan Bishop,ryan.bishop@usctrojans.com,213-555-0303,America/Los_Angeles,Big Ten
+Kansas Jayhawks,ncaa_football,Brett Simmons,brett.simmons@kujayhawks.com,785-555-0304,America/Chicago,Big 12
+Kansas State Wildcats,ncaa_football,Troy Marshall,troy.marshall@kstatewildcats.com,785-555-0305,America/Chicago,Big 12
+Iowa State Cyclones,ncaa_football,Chad Anderson,chad.anderson@cyclones.com,515-555-0306,America/Chicago,Big 12
+Baylor Bears,ncaa_football,Russell Greene,russell.greene@baylorbears.com,254-555-0307,America/Chicago,Big 12
+TCU Horned Frogs,ncaa_football,Blake Turner,blake.turner@gofrogs.com,817-555-0308,America/Chicago,Big 12
+Texas Tech Red Raiders,ncaa_football,Dustin Wells,dustin.wells@texastech.com,806-555-0309,America/Chicago,Big 12
+Oklahoma State Cowboys,ncaa_football,Shane Kelley,shane.kelley@okstatecowboys.com,405-555-0310,America/Chicago,Big 12
+BYU Cougars,ncaa_football,David Christensen,david.christensen@byucougars.com,801-555-0311,America/Denver,Big 12
+Colorado Buffaloes,ncaa_football,Ryan Olson,ryan.olson@cubuffs.com,303-555-0312,America/Denver,Big 12
+Utah Utes,ncaa_football,Brandon Meyer,brandon.meyer@utahutes.com,801-555-0313,America/Denver,Big 12
+Houston Cougars,ncaa_football,Marcus Johnson,marcus.johnson@uhcougars.com,713-555-0314,America/Chicago,Big 12
+Arizona State Sun Devils,ncaa_football,Garrett Lewis,garrett.lewis@sundevils.com,480-555-0315,America/Denver,Big 12
+Missouri Tigers,ncaa_football,Kenneth Adler,kenneth.adler@mizzoufootball.com,573-555-0316,America/Chicago,SEC
+Arkansas Razorbacks,ncaa_football,Luke Prescott,luke.prescott@arkansasrazorbacks.com,479-555-0317,America/Chicago,SEC
+Oklahoma Sooners,ncaa_football,Jared Nichols,jared.nichols@soonerfootball.com,405-555-0318,America/Chicago,Big 12 - moving to SEC
+Texas Longhorns,ncaa_football,Will Davenport,will.davenport@texaslonghorns.com,512-555-0319,America/Chicago,SEC
+Texas A&M Aggies,ncaa_football,Cole Richardson,cole.richardson@aggies.com,979-555-0320,America/Chicago,SEC
+SMU Mustangs,ncaa_football,Preston Hall,preston.hall@smumustangs.com,214-555-0321,America/Chicago,ACC
+Stanford Cardinal,ncaa_football,Ian Fitzgerald,ian.fitzgerald@stanfordcardinal.com,650-555-0322,America/Los_Angeles,ACC
+California Golden Bears,ncaa_football,Derek Hansen,derek.hansen@calbears.com,510-555-0323,America/Los_Angeles,ACC
+Alabama Crimson Tide,ncaa_football,Robert Thornton,robert.thornton@rolltide.com,205-555-0400,America/Chicago,SEC
+Auburn Tigers,ncaa_football,Charles Mitchell,charles.mitchell@auburntigers.com,334-555-0401,America/Chicago,SEC
+Florida Gators,ncaa_football,Daniel Rivera,daniel.rivera@floridagators.com,352-555-0402,America/New_York,SEC
+Georgia Bulldogs,ncaa_football,Matthew Langford,matthew.langford@georgiabulldogs.com,706-555-0403,America/New_York,SEC
+Kentucky Wildcats,ncaa_football,Brian Castillo,brian.castillo@ukwildcats.com,859-555-0404,America/New_York,SEC
+LSU Tigers,ncaa_football,Andre Broussard,andre.broussard@lsutigers.com,225-555-0405,America/Chicago,SEC
+Mississippi State Bulldogs,ncaa_football,Tommy Watkins,tommy.watkins@hailstate.com,662-555-0406,America/Chicago,SEC
+Ole Miss Rebels,ncaa_football,Jackson Cartwright,jackson.cartwright@olemissrebels.com,662-555-0407,America/Chicago,SEC
+South Carolina Gamecocks,ncaa_football,Travis Ford,travis.ford@gamecocksonline.com,803-555-0408,America/New_York,SEC
+Tennessee Volunteers,ncaa_football,Nathan Barrett,nathan.barrett@govolsfootball.com,865-555-0409,America/New_York,SEC
+Vanderbilt Commodores,ncaa_football,Harrison Cole,harrison.cole@vandycommodores.com,615-555-0410,America/Chicago,SEC
+Clemson Tigers,ncaa_football,Russell Blake,russell.blake@clemsontigers.com,864-555-0411,America/New_York,ACC
+Duke Blue Devils,ncaa_football,Graham Spencer,graham.spencer@dukebluedevils.com,919-555-0412,America/New_York,ACC
+Florida State Seminoles,ncaa_football,Brian Maxwell,brian.maxwell@seminoles.com,850-555-0413,America/New_York,ACC
+Georgia Tech Yellow Jackets,ncaa_football,Kyle Donovan,kyle.donovan@ramblinwreck.com,404-555-0414,America/New_York,ACC
+Louisville Cardinals,ncaa_football,Adam Mercer,adam.mercer@louisvillecardinals.com,502-555-0415,America/New_York,ACC
+Miami Hurricanes,ncaa_football,Oscar Delgado,oscar.delgado@miamihurricanes.com,305-555-0416,America/New_York,ACC
+North Carolina Tar Heels,ncaa_football,Tyler Ashworth,tyler.ashworth@tarheelfootball.com,919-555-0417,America/New_York,ACC
+NC State Wolfpack,ncaa_football,Jordan Payne,jordan.payne@ncstatewolfpack.com,919-555-0418,America/New_York,ACC
+Wake Forest Demon Deacons,ncaa_football,Evan Caldwell,evan.caldwell@wakeforestfootball.com,336-555-0419,America/New_York,ACC
+UCF Knights,ncaa_football,Diego Ramirez,diego.ramirez@ucfknights.com,407-555-0420,America/New_York,Big 12
+Arizona Wildcats,ncaa_football,Corey Watson,corey.watson@arizonawildcats.com,520-555-0421,America/Denver,Big 12
+Memphis Tigers,ncaa_football,Terrence Howard,terrence.howard@memphisfootball.com,901-555-0500,America/Chicago,Mid-season addition - Week 6
+Boise State Broncos,ncaa_football,Jake Peterson,jake.peterson@broncosports.com,208-555-0501,America/Denver,Mid-season addition - Week 8
+James Madison Dukes,ncaa_football,Connor Sullivan,connor.sullivan@jmudukes.com,540-555-0502,America/New_York,Mid-season addition - Week 10

@@ -1,0 +1,144 @@
+{
+    "description": "1 hub (Cleveland), 3 nearby Ohio venues, 1 vehicle, 27 assets",
+    "season_year": 2025,
+    "week_number": 3,
+    "hubs": [
+        {
+            "id": "hub-cle-001",
+            "name": "Cleveland",
+            "city": "Cleveland",
+            "state": "OH",
+            "address": "1 Hub Way, Cleveland, OH 44114",
+            "lat": 41.4993,
+            "lng": -81.6944
+        }
+    ],
+    "games": [
+        {
+            "id": "game-001",
+            "customer_id": "cust-akron",
+            "customer_name": "Akron Zips",
+            "venue_id": "venue-akron",
+            "season_year": 2025,
+            "week_number": 3,
+            "game_date": "2025-09-20",
+            "game_time": "12:00",
+            "opponent": "Kent State",
+            "is_home_game": true,
+            "sidelines_served": "both",
+            "season_phase": "regular"
+        },
+        {
+            "id": "game-002",
+            "customer_id": "cust-kent",
+            "customer_name": "Kent State Golden Flashes",
+            "venue_id": "venue-kent",
+            "season_year": 2025,
+            "week_number": 3,
+            "game_date": "2025-09-20",
+            "game_time": "15:30",
+            "opponent": "Akron",
+            "is_home_game": false,
+            "sidelines_served": "both",
+            "season_phase": "regular"
+        },
+        {
+            "id": "game-003",
+            "customer_id": "cust-ysu",
+            "customer_name": "Youngstown State Penguins",
+            "venue_id": "venue-ysu",
+            "season_year": 2025,
+            "week_number": 3,
+            "game_date": "2025-09-20",
+            "game_time": "14:00",
+            "opponent": "Northern Iowa",
+            "is_home_game": true,
+            "sidelines_served": "home",
+            "season_phase": "regular"
+        }
+    ],
+    "venues": [
+        {
+            "id": "venue-akron",
+            "customer_id": "cust-akron",
+            "name": "InfoCision Stadium",
+            "address": "375 E Exchange St, Akron, OH 44325",
+            "city": "Akron",
+            "state": "OH",
+            "lat": 41.0753,
+            "lng": -81.5097,
+            "is_primary": true
+        },
+        {
+            "id": "venue-kent",
+            "customer_id": "cust-kent",
+            "name": "Dix Stadium",
+            "address": "1025 Risman Dr, Kent, OH 44240",
+            "city": "Kent",
+            "state": "OH",
+            "lat": 41.1467,
+            "lng": -81.3436,
+            "is_primary": true
+        },
+        {
+            "id": "venue-ysu",
+            "customer_id": "cust-ysu",
+            "name": "Stambaugh Stadium",
+            "address": "1 Tressel Way, Youngstown, OH 44555",
+            "city": "Youngstown",
+            "state": "OH",
+            "lat": 41.1043,
+            "lng": -80.6464,
+            "is_primary": true
+        }
+    ],
+    "contract_items": [
+        {"id": "ci-a1", "contract_id": "c-a", "customer_id": "cust-akron", "customer_name": "Akron Zips", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci-a2", "contract_id": "c-a", "customer_id": "cust-akron", "customer_name": "Akron Zips", "asset_type": "dragon_shader", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci-a3", "contract_id": "c-a", "customer_id": "cust-akron", "customer_name": "Akron Zips", "asset_type": "heated_foot_deck", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci-k1", "contract_id": "c-k", "customer_id": "cust-kent", "customer_name": "Kent State Golden Flashes", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci-k2", "contract_id": "c-k", "customer_id": "cust-kent", "customer_name": "Kent State Golden Flashes", "asset_type": "dragon_shader", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci-k3", "contract_id": "c-k", "customer_id": "cust-kent", "customer_name": "Kent State Golden Flashes", "asset_type": "heated_foot_deck", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci-y1", "contract_id": "c-y", "customer_id": "cust-ysu", "customer_name": "Youngstown State Penguins", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci-y2", "contract_id": "c-y", "customer_id": "cust-ysu", "customer_name": "Youngstown State Penguins", "asset_type": "dragon_shader", "quantity": 3, "model_version": null, "branding_spec": null},
+        {"id": "ci-y3", "contract_id": "c-y", "customer_id": "cust-ysu", "customer_name": "Youngstown State Penguins", "asset_type": "heated_foot_deck", "quantity": 3, "model_version": null, "branding_spec": null}
+    ],
+    "assets": [
+        {"id": "a-hb-01", "serial_number": "HB-CLE-101", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-hb-02", "serial_number": "HB-CLE-102", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-hb-03", "serial_number": "HB-CLE-103", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-hb-04", "serial_number": "HB-CLE-104", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-hb-05", "serial_number": "HB-CLE-105", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-hb-06", "serial_number": "HB-CLE-106", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-hb-07", "serial_number": "HB-CLE-107", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-hb-08", "serial_number": "HB-CLE-108", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-hb-09", "serial_number": "HB-CLE-109", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-ds-01", "serial_number": "DS-CLE-101", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-ds-02", "serial_number": "DS-CLE-102", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-ds-03", "serial_number": "DS-CLE-103", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-ds-04", "serial_number": "DS-CLE-104", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-ds-05", "serial_number": "DS-CLE-105", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-ds-06", "serial_number": "DS-CLE-106", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-ds-07", "serial_number": "DS-CLE-107", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-ds-08", "serial_number": "DS-CLE-108", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-ds-09", "serial_number": "DS-CLE-109", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": null},
+        {"id": "a-fd-01", "serial_number": "FD-CLE-101", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null},
+        {"id": "a-fd-02", "serial_number": "FD-CLE-102", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null},
+        {"id": "a-fd-03", "serial_number": "FD-CLE-103", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null},
+        {"id": "a-fd-04", "serial_number": "FD-CLE-104", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null},
+        {"id": "a-fd-05", "serial_number": "FD-CLE-105", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null},
+        {"id": "a-fd-06", "serial_number": "FD-CLE-106", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null},
+        {"id": "a-fd-07", "serial_number": "FD-CLE-107", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null},
+        {"id": "a-fd-08", "serial_number": "FD-CLE-108", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null},
+        {"id": "a-fd-09", "serial_number": "FD-CLE-109", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": null}
+    ],
+    "vehicles": [
+        {"id": "veh-001", "name": "Truck-CLE-01", "type": "truck_and_trailer", "home_hub_id": "hub-cle-001", "capacity_lbs": 10000, "capacity_cuft": 800, "status": "active"}
+    ],
+    "personnel": [
+        {"id": "person-001", "name": "John Driver", "role": "driver", "home_hub_id": "hub-cle-001", "skills": ["cdl"], "max_drive_hrs": 11},
+        {"id": "person-002", "name": "Mike Tech", "role": "service_tech", "home_hub_id": "hub-cle-001", "skills": ["setup"], "max_drive_hrs": 11}
+    ],
+    "branding_tasks": [],
+    "asset_assignments": []
+}

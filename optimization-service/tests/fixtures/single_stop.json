@@ -1,0 +1,116 @@
+{
+    "description": "1 hub (Cleveland), 1 venue (Browns), 1 vehicle, 16 assets",
+    "season_year": 2025,
+    "week_number": 1,
+    "hubs": [
+        {
+            "id": "hub-cle-001",
+            "name": "Cleveland",
+            "city": "Cleveland",
+            "state": "OH",
+            "address": "1 Hub Way, Cleveland, OH 44114",
+            "lat": 41.4993,
+            "lng": -81.6944
+        }
+    ],
+    "games": [
+        {
+            "id": "game-001",
+            "customer_id": "cust-browns",
+            "customer_name": "Cleveland Browns",
+            "venue_id": "venue-browns",
+            "season_year": 2025,
+            "week_number": 1,
+            "game_date": "2025-09-07",
+            "game_time": "13:00",
+            "opponent": "Cincinnati Bengals",
+            "is_home_game": true,
+            "sidelines_served": "both",
+            "season_phase": "regular"
+        }
+    ],
+    "venues": [
+        {
+            "id": "venue-browns",
+            "customer_id": "cust-browns",
+            "name": "Huntington Bank Field",
+            "address": "100 Alfred Lerner Way, Cleveland, OH 44114",
+            "city": "Cleveland",
+            "state": "OH",
+            "lat": 41.5061,
+            "lng": -81.6995,
+            "is_primary": true
+        }
+    ],
+    "contract_items": [
+        {
+            "id": "ci-001",
+            "contract_id": "contract-001",
+            "customer_id": "cust-browns",
+            "customer_name": "Cleveland Browns",
+            "asset_type": "hybrid_bench",
+            "model_version": null,
+            "quantity": 8,
+            "branding_spec": "Cleveland Browns"
+        },
+        {
+            "id": "ci-002",
+            "contract_id": "contract-001",
+            "customer_id": "cust-browns",
+            "customer_name": "Cleveland Browns",
+            "asset_type": "heated_foot_deck",
+            "model_version": null,
+            "quantity": 8,
+            "branding_spec": "Cleveland Browns"
+        }
+    ],
+    "assets": [
+        {"id": "asset-001", "serial_number": "HB-CLE-001", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Cleveland Browns"},
+        {"id": "asset-002", "serial_number": "HB-CLE-002", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Cleveland Browns"},
+        {"id": "asset-003", "serial_number": "HB-CLE-003", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Cleveland Browns"},
+        {"id": "asset-004", "serial_number": "HB-CLE-004", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Cleveland Browns"},
+        {"id": "asset-005", "serial_number": "HB-CLE-005", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Cleveland Browns"},
+        {"id": "asset-006", "serial_number": "HB-CLE-006", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Cleveland Browns"},
+        {"id": "asset-007", "serial_number": "HB-CLE-007", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Cleveland Browns"},
+        {"id": "asset-008", "serial_number": "HB-CLE-008", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Cleveland Browns"},
+        {"id": "asset-009", "serial_number": "FD-CLE-001", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Cleveland Browns"},
+        {"id": "asset-010", "serial_number": "FD-CLE-002", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Cleveland Browns"},
+        {"id": "asset-011", "serial_number": "FD-CLE-003", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Cleveland Browns"},
+        {"id": "asset-012", "serial_number": "FD-CLE-004", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Cleveland Browns"},
+        {"id": "asset-013", "serial_number": "FD-CLE-005", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Cleveland Browns"},
+        {"id": "asset-014", "serial_number": "FD-CLE-006", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Cleveland Browns"},
+        {"id": "asset-015", "serial_number": "FD-CLE-007", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Cleveland Browns"},
+        {"id": "asset-016", "serial_number": "FD-CLE-008", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Cleveland Browns"}
+    ],
+    "vehicles": [
+        {
+            "id": "veh-001",
+            "name": "Truck-CLE-01",
+            "type": "truck_and_trailer",
+            "home_hub_id": "hub-cle-001",
+            "capacity_lbs": 10000,
+            "capacity_cuft": 800,
+            "status": "active"
+        }
+    ],
+    "personnel": [
+        {
+            "id": "person-001",
+            "name": "John Driver",
+            "role": "driver",
+            "home_hub_id": "hub-cle-001",
+            "skills": ["cdl", "forklift"],
+            "max_drive_hrs": 11
+        },
+        {
+            "id": "person-002",
+            "name": "Mike Tech",
+            "role": "service_tech",
+            "home_hub_id": "hub-cle-001",
+            "skills": ["setup", "heating_systems"],
+            "max_drive_hrs": 11
+        }
+    ],
+    "branding_tasks": [],
+    "asset_assignments": []
+}

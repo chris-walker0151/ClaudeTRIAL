@@ -1,0 +1,669 @@
+customer_name,venue_name,season_year,week_number,game_date,game_time,opponent,is_home_game,sidelines_served,season_phase,notes
+Cleveland Browns,,2025,0,2025-08-23,19:00,Green Bay Packers,true,both,preseason,Preseason
+Pittsburgh Steelers,,2025,0,2025-08-23,19:00,Detroit Lions,true,both,preseason,Preseason
+Buffalo Bills,,2025,0,2025-08-23,19:00,Carolina Panthers,true,both,preseason,Preseason
+Detroit Lions,,2025,0,2025-08-23,19:00,Cincinnati Bengals,true,both,preseason,Preseason
+Cincinnati Bengals,,2025,0,2025-08-24,19:00,Tampa Bay Buccaneers,true,both,preseason,Preseason
+Indianapolis Colts,,2025,0,2025-08-23,19:00,Chicago Bears,true,both,preseason,Preseason
+Baltimore Ravens,,2025,0,2025-08-23,19:00,Washington Commanders,true,both,preseason,Preseason
+Philadelphia Eagles,,2025,0,2025-08-24,19:00,New England Patriots,true,both,preseason,Preseason
+New York Giants,,2025,0,2025-08-23,19:00,New York Jets,true,both,preseason,Preseason
+New York Jets,,2025,0,2025-08-24,19:00,Atlanta Falcons,true,both,preseason,Preseason
+New England Patriots,,2025,0,2025-08-23,19:00,Jacksonville Jaguars,true,both,preseason,Preseason
+Kansas City Chiefs,,2025,0,2025-08-23,19:00,Minnesota Vikings,true,both,preseason,Preseason
+Chicago Bears,,2025,0,2025-08-24,19:00,Buffalo Bills,true,both,preseason,Preseason
+Minnesota Vikings,,2025,0,2025-08-24,19:00,Denver Broncos,true,both,preseason,Preseason
+Denver Broncos,,2025,0,2025-08-23,19:00,Arizona Cardinals,true,both,preseason,Preseason
+Tennessee Titans,,2025,0,2025-08-23,19:00,San Francisco 49ers,true,both,preseason,Preseason
+Green Bay Packers,,2025,0,2025-08-24,19:00,Houston Texans,true,both,preseason,Preseason
+Jacksonville Jaguars,,2025,0,2025-08-24,19:00,Cleveland Browns,true,both,preseason,Preseason
+Miami Dolphins,,2025,0,2025-08-23,19:00,New Orleans Saints,true,both,preseason,Preseason
+Tampa Bay Buccaneers,,2025,0,2025-08-24,19:00,Miami Dolphins,true,both,preseason,Preseason
+Atlanta Falcons,,2025,0,2025-08-23,19:00,Tennessee Titans,true,both,preseason,Preseason
+Carolina Panthers,,2025,0,2025-08-24,19:00,Baltimore Ravens,true,both,preseason,Preseason
+Washington Commanders,,2025,0,2025-08-23,19:00,Pittsburgh Steelers,true,both,preseason,Preseason
+New Orleans Saints,,2025,0,2025-08-24,19:00,Dallas Cowboys,true,both,preseason,Preseason
+Dallas Cowboys,,2025,0,2025-08-23,19:00,Los Angeles Chargers,true,both,preseason,Preseason
+Cleveland Browns,,2025,1,2025-09-07,13:00,Cincinnati Bengals,true,both,regular,
+Cleveland Browns,,2025,2,2025-09-14,13:00,Jacksonville Jaguars,true,both,regular,
+Cleveland Browns,,2025,4,2025-09-28,13:00,Houston Texans,true,both,regular,
+Cleveland Browns,,2025,6,2025-10-12,16:25,Baltimore Ravens,true,both,regular,
+Cleveland Browns,,2025,8,2025-10-23,20:15,Denver Broncos,true,both,regular,Thursday Night Football
+Cleveland Browns,,2025,10,2025-11-09,13:00,Pittsburgh Steelers,true,both,regular,
+Cleveland Browns,,2025,13,2025-11-30,20:20,Tennessee Titans,true,both,regular,Sunday Night Football
+Cleveland Browns,,2025,15,2025-12-15,20:15,New York Jets,true,both,regular,Monday Night Football
+Cleveland Browns,,2025,17,2025-12-28,16:25,Las Vegas Raiders,true,both,regular,
+Pittsburgh Steelers,,2025,1,2025-09-07,13:00,Baltimore Ravens,true,both,regular,
+Pittsburgh Steelers,,2025,3,2025-09-21,16:25,Las Vegas Raiders,true,both,regular,
+Pittsburgh Steelers,NFL International Shipping - Boston,2025,4,2025-09-28,14:30,Minnesota Vikings,true,both,regular,Equipment pre-shipped to Boston container Week 2
+Pittsburgh Steelers,,2025,6,2025-10-12,13:00,Cleveland Browns,true,both,regular,
+Pittsburgh Steelers,,2025,8,2025-10-26,20:20,Dallas Cowboys,true,both,regular,Sunday Night Football
+Pittsburgh Steelers,,2025,11,2025-11-13,20:15,Cincinnati Bengals,true,both,regular,Thursday Night Football
+Pittsburgh Steelers,,2025,14,2025-12-07,13:00,New England Patriots,true,both,regular,
+Pittsburgh Steelers,,2025,16,2025-12-21,16:25,Kansas City Chiefs,true,both,regular,
+Pittsburgh Steelers,,2025,18,2026-01-04,20:15,Baltimore Ravens,true,both,regular,Monday Night Football
+Buffalo Bills,,2025,1,2025-09-07,13:00,Arizona Cardinals,true,both,regular,
+Buffalo Bills,,2025,3,2025-09-21,13:00,Miami Dolphins,true,both,regular,
+Buffalo Bills,,2025,5,2025-10-05,13:00,New York Jets,true,both,regular,
+Buffalo Bills,,2025,8,2025-10-26,13:00,Tennessee Titans,true,both,regular,
+Buffalo Bills,,2025,10,2025-11-09,20:20,Kansas City Chiefs,true,both,regular,Sunday Night Football
+Buffalo Bills,,2025,12,2025-11-20,20:15,New England Patriots,true,both,regular,Thursday Night Football
+Buffalo Bills,,2025,14,2025-12-07,13:00,New York Jets,true,both,regular,
+Buffalo Bills,,2025,16,2025-12-21,16:25,Miami Dolphins,true,both,regular,
+Buffalo Bills,,2025,18,2026-01-04,20:15,Indianapolis Colts,true,both,regular,Monday Night Football
+Detroit Lions,,2025,1,2025-09-07,13:00,Los Angeles Rams,true,both,regular,
+Detroit Lions,,2025,3,2025-09-18,20:15,Green Bay Packers,true,both,regular,Thursday Night Football
+Detroit Lions,,2025,5,2025-10-05,13:00,Minnesota Vikings,true,both,regular,
+Detroit Lions,,2025,7,2025-10-19,13:00,Houston Texans,true,both,regular,
+Detroit Lions,,2025,9,2025-10-30,20:15,San Francisco 49ers,true,both,regular,Thursday Night Football
+Detroit Lions,,2025,11,2025-11-16,20:20,Chicago Bears,true,both,regular,Sunday Night Football
+Detroit Lions,,2025,14,2025-12-07,16:25,Green Bay Packers,true,both,regular,
+Detroit Lions,,2025,16,2025-12-22,20:15,Minnesota Vikings,true,both,regular,Monday Night Football
+Detroit Lions,,2025,18,2026-01-04,13:00,Chicago Bears,true,both,regular,
+Cincinnati Bengals,,2025,1,2025-09-07,13:00,New England Patriots,true,both,regular,
+Cincinnati Bengals,,2025,3,2025-09-21,13:00,Los Angeles Chargers,true,both,regular,
+Cincinnati Bengals,,2025,5,2025-10-05,16:25,Cleveland Browns,true,both,regular,
+Cincinnati Bengals,,2025,7,2025-10-19,13:00,Jacksonville Jaguars,true,both,regular,
+Cincinnati Bengals,,2025,9,2025-11-02,20:20,Baltimore Ravens,true,both,regular,Sunday Night Football
+Cincinnati Bengals,,2025,12,2025-11-23,13:00,Pittsburgh Steelers,true,both,regular,
+Cincinnati Bengals,,2025,14,2025-12-04,20:15,Dallas Cowboys,true,both,regular,Thursday Night Football
+Cincinnati Bengals,,2025,16,2025-12-21,13:00,Cleveland Browns,true,both,regular,
+Cincinnati Bengals,,2025,18,2026-01-04,20:15,Pittsburgh Steelers,true,both,regular,Monday Night Football
+Indianapolis Colts,,2025,1,2025-09-07,13:00,Denver Broncos,true,both,regular,
+Indianapolis Colts,,2025,3,2025-09-21,13:00,Tennessee Titans,true,both,regular,
+Indianapolis Colts,,2025,5,2025-10-05,13:00,Jacksonville Jaguars,true,both,regular,
+Indianapolis Colts,,2025,7,2025-10-19,16:25,Houston Texans,true,both,regular,
+Indianapolis Colts,,2025,9,2025-11-02,13:00,New York Giants,true,both,regular,
+Indianapolis Colts,NFL International Shipping - Boston,2025,10,2025-11-09,14:30,Atlanta Falcons,true,both,regular,Equipment pre-shipped to Boston container Week 2
+Indianapolis Colts,,2025,13,2025-11-30,13:00,New England Patriots,true,both,regular,
+Indianapolis Colts,,2025,15,2025-12-14,20:20,Tennessee Titans,true,both,regular,Sunday Night Football
+Indianapolis Colts,,2025,17,2025-12-25,13:00,Jacksonville Jaguars,true,both,regular,Christmas Day
+Indianapolis Colts,,2025,18,2026-01-03,20:15,Houston Texans,true,both,regular,Thursday Night Football
+Baltimore Ravens,,2025,1,2025-09-07,13:00,Las Vegas Raiders,true,both,regular,
+Baltimore Ravens,,2025,3,2025-09-21,20:20,Dallas Cowboys,true,both,regular,Sunday Night Football
+Baltimore Ravens,,2025,5,2025-10-05,13:00,Miami Dolphins,true,both,regular,
+Baltimore Ravens,,2025,6,2025-10-09,20:15,Cincinnati Bengals,true,both,regular,Thursday Night Football
+Baltimore Ravens,,2025,9,2025-11-02,16:25,Cleveland Browns,true,both,regular,
+Baltimore Ravens,,2025,12,2025-11-23,13:00,Los Angeles Chargers,true,both,regular,
+Baltimore Ravens,,2025,14,2025-12-07,13:00,Pittsburgh Steelers,true,both,regular,
+Baltimore Ravens,,2025,16,2025-12-22,20:15,Houston Texans,true,both,regular,Monday Night Football
+Baltimore Ravens,,2025,18,2026-01-04,13:00,Cleveland Browns,true,both,regular,
+Philadelphia Eagles,,2025,1,2025-09-04,20:15,Dallas Cowboys,true,both,regular,Season Opener - Thursday Night Football
+Philadelphia Eagles,,2025,3,2025-09-21,13:00,New Orleans Saints,true,both,regular,
+Philadelphia Eagles,,2025,5,2025-10-05,16:25,Arizona Cardinals,true,both,regular,
+Philadelphia Eagles,,2025,7,2025-10-19,13:00,Carolina Panthers,true,both,regular,
+Philadelphia Eagles,,2025,8,2025-10-26,13:00,San Francisco 49ers,true,both,regular,
+Philadelphia Eagles,,2025,11,2025-11-16,13:00,Washington Commanders,true,both,regular,
+Philadelphia Eagles,,2025,14,2025-12-08,20:15,Dallas Cowboys,true,both,regular,Monday Night Football
+Philadelphia Eagles,,2025,16,2025-12-21,20:20,New York Giants,true,both,regular,Sunday Night Football
+Philadelphia Eagles,,2025,18,2026-01-04,13:00,Washington Commanders,true,both,regular,
+New York Giants,,2025,1,2025-09-07,13:00,Tennessee Titans,true,both,regular,
+New York Giants,,2025,3,2025-09-21,13:00,Carolina Panthers,true,both,regular,
+New York Giants,,2025,5,2025-10-05,13:00,Dallas Cowboys,true,both,regular,
+New York Giants,,2025,7,2025-10-19,20:20,Philadelphia Eagles,true,both,regular,Sunday Night Football
+New York Giants,,2025,9,2025-11-02,13:00,Washington Commanders,true,both,regular,
+New York Giants,,2025,11,2025-11-13,20:15,Tampa Bay Buccaneers,true,both,regular,Thursday Night Football
+New York Giants,,2025,13,2025-12-01,20:15,Seattle Seahawks,true,both,regular,Monday Night Football
+New York Giants,,2025,16,2025-12-21,16:25,Miami Dolphins,true,both,regular,
+New York Giants,,2025,18,2026-01-04,13:00,Dallas Cowboys,true,both,regular,
+New York Jets,,2025,1,2025-09-07,13:00,Miami Dolphins,true,both,regular,
+New York Jets,,2025,3,2025-09-22,20:15,New England Patriots,true,both,regular,Monday Night Football
+New York Jets,,2025,5,2025-10-05,13:00,Pittsburgh Steelers,true,both,regular,
+New York Jets,,2025,7,2025-10-16,20:15,Houston Texans,true,both,regular,Thursday Night Football
+New York Jets,,2025,9,2025-11-02,16:25,Buffalo Bills,true,both,regular,
+New York Jets,,2025,11,2025-11-16,13:00,Indianapolis Colts,true,both,regular,
+New York Jets,,2025,14,2025-12-07,20:20,Baltimore Ravens,true,both,regular,Sunday Night Football
+New York Jets,,2025,16,2025-12-21,13:00,New England Patriots,true,both,regular,
+New York Jets,,2025,18,2026-01-04,13:00,Miami Dolphins,true,both,regular,
+New England Patriots,,2025,1,2025-09-07,13:00,Washington Commanders,true,both,regular,
+New England Patriots,,2025,3,2025-09-18,20:15,New York Jets,true,both,regular,Thursday Night Football
+New England Patriots,,2025,5,2025-10-05,13:00,Miami Dolphins,true,both,regular,
+New England Patriots,,2025,7,2025-10-19,13:00,Buffalo Bills,true,both,regular,
+New England Patriots,,2025,9,2025-11-02,13:00,Carolina Panthers,true,both,regular,
+New England Patriots,,2025,11,2025-11-16,16:25,Philadelphia Eagles,true,both,regular,
+New England Patriots,,2025,13,2025-11-30,20:20,Houston Texans,true,both,regular,Sunday Night Football
+New England Patriots,,2025,16,2025-12-22,20:15,New York Jets,true,both,regular,Monday Night Football
+New England Patriots,,2025,18,2026-01-04,13:00,San Francisco 49ers,true,both,regular,
+Kansas City Chiefs,,2025,1,2025-09-07,16:25,Houston Texans,true,both,regular,
+Kansas City Chiefs,,2025,3,2025-09-21,13:00,Las Vegas Raiders,true,both,regular,
+Kansas City Chiefs,,2025,5,2025-10-02,20:15,Denver Broncos,true,both,regular,Thursday Night Football
+Kansas City Chiefs,,2025,7,2025-10-19,13:00,Cincinnati Bengals,true,both,regular,
+Kansas City Chiefs,,2025,9,2025-11-02,20:20,Buffalo Bills,true,both,regular,Sunday Night Football
+Kansas City Chiefs,,2025,12,2025-11-23,13:00,Chicago Bears,true,both,regular,
+Kansas City Chiefs,,2025,14,2025-12-08,20:15,Los Angeles Chargers,true,both,regular,Monday Night Football
+Kansas City Chiefs,,2025,16,2025-12-21,13:00,Denver Broncos,true,both,regular,
+Kansas City Chiefs,,2025,18,2026-01-04,13:00,Las Vegas Raiders,true,both,regular,
+Chicago Bears,,2025,1,2025-09-07,13:00,Green Bay Packers,true,both,regular,
+Chicago Bears,,2025,3,2025-09-21,16:25,Detroit Lions,true,both,regular,
+Chicago Bears,,2025,4,2025-09-28,13:00,Seattle Seahawks,true,both,regular,
+Chicago Bears,,2025,7,2025-10-19,13:00,Minnesota Vikings,true,both,regular,
+Chicago Bears,,2025,9,2025-11-02,13:00,Arizona Cardinals,true,both,regular,
+Chicago Bears,,2025,11,2025-11-16,13:00,Las Vegas Raiders,true,both,regular,
+Chicago Bears,,2025,13,2025-12-01,20:15,Green Bay Packers,true,both,regular,Monday Night Football
+Chicago Bears,,2025,15,2025-12-14,20:20,Detroit Lions,true,both,regular,Sunday Night Football
+Chicago Bears,,2025,17,2025-12-28,20:15,Minnesota Vikings,true,both,regular,Thursday Night Football
+Minnesota Vikings,,2025,1,2025-09-07,13:00,Dallas Cowboys,true,both,regular,
+Minnesota Vikings,,2025,3,2025-09-21,13:00,Tampa Bay Buccaneers,true,both,regular,
+Minnesota Vikings,,2025,5,2025-10-05,20:20,Detroit Lions,true,both,regular,Sunday Night Football
+Minnesota Vikings,,2025,7,2025-10-16,20:15,Green Bay Packers,true,both,regular,Thursday Night Football
+Minnesota Vikings,,2025,9,2025-11-02,13:00,Los Angeles Rams,true,both,regular,
+Minnesota Vikings,,2025,11,2025-11-16,16:25,San Francisco 49ers,true,both,regular,
+Minnesota Vikings,,2025,14,2025-12-07,13:00,Chicago Bears,true,both,regular,
+Minnesota Vikings,,2025,16,2025-12-22,20:15,Seattle Seahawks,true,both,regular,Monday Night Football
+Minnesota Vikings,,2025,18,2026-01-04,13:00,Green Bay Packers,true,both,regular,
+Denver Broncos,,2025,1,2025-09-07,16:25,Las Vegas Raiders,true,both,regular,
+Denver Broncos,,2025,3,2025-09-21,13:00,San Francisco 49ers,true,both,regular,
+Denver Broncos,,2025,5,2025-10-05,13:00,Jacksonville Jaguars,true,both,regular,
+Denver Broncos,,2025,7,2025-10-19,13:00,Seattle Seahawks,true,both,regular,
+Denver Broncos,,2025,9,2025-11-02,16:25,Kansas City Chiefs,true,both,regular,
+Denver Broncos,,2025,11,2025-11-16,20:20,Miami Dolphins,true,both,regular,Sunday Night Football
+Denver Broncos,,2025,14,2025-12-04,20:15,Las Vegas Raiders,true,both,regular,Thursday Night Football
+Denver Broncos,,2025,16,2025-12-21,20:15,Los Angeles Chargers,true,both,regular,Monday Night Football
+Denver Broncos,,2025,18,2026-01-04,13:00,Kansas City Chiefs,true,both,regular,
+Tennessee Titans,,2025,1,2025-09-07,13:00,Cleveland Browns,true,both,regular,
+Tennessee Titans,,2025,3,2025-09-21,13:00,Houston Texans,true,both,regular,
+Tennessee Titans,,2025,5,2025-10-05,16:25,Indianapolis Colts,true,both,regular,
+Tennessee Titans,,2025,7,2025-10-19,13:00,Carolina Panthers,true,both,regular,
+Tennessee Titans,,2025,9,2025-11-02,13:00,New Orleans Saints,true,both,regular,
+Tennessee Titans,,2025,12,2025-11-20,20:15,Jacksonville Jaguars,true,both,regular,Thursday Night Football
+Tennessee Titans,,2025,14,2025-12-07,20:20,Houston Texans,true,both,regular,Sunday Night Football
+Tennessee Titans,,2025,16,2025-12-22,20:15,Jacksonville Jaguars,true,both,regular,Monday Night Football
+Tennessee Titans,,2025,18,2026-01-04,13:00,Indianapolis Colts,true,both,regular,
+Green Bay Packers,,2025,1,2025-09-07,13:00,Philadelphia Eagles,true,both,regular,
+Green Bay Packers,,2025,3,2025-09-21,13:00,Los Angeles Rams,true,both,regular,
+Green Bay Packers,,2025,5,2025-10-05,13:00,Carolina Panthers,true,both,regular,
+Green Bay Packers,,2025,7,2025-10-19,16:25,Dallas Cowboys,true,both,regular,
+Green Bay Packers,,2025,9,2025-11-02,13:00,Chicago Bears,true,both,regular,
+Green Bay Packers,,2025,11,2025-11-16,20:20,Detroit Lions,true,both,regular,Sunday Night Football
+Green Bay Packers,,2025,13,2025-11-27,20:15,Minnesota Vikings,true,both,regular,Thursday Night Football
+Green Bay Packers,,2025,15,2025-12-14,13:00,Seattle Seahawks,true,both,regular,
+Green Bay Packers,,2025,17,2025-12-28,20:15,Minnesota Vikings,true,both,regular,Monday Night Football
+Jacksonville Jaguars,,2025,1,2025-09-07,13:00,Indianapolis Colts,true,both,regular,
+Jacksonville Jaguars,,2025,3,2025-09-21,13:00,Tennessee Titans,true,both,regular,
+Jacksonville Jaguars,,2025,5,2025-10-05,16:25,Houston Texans,true,both,regular,
+Jacksonville Jaguars,NFL International Shipping - Boston,2025,6,2025-10-12,14:30,Los Angeles Rams,true,both,regular,Equipment pre-shipped to Boston container Week 2
+Jacksonville Jaguars,,2025,10,2025-11-09,13:00,Las Vegas Raiders,true,both,regular,
+Jacksonville Jaguars,,2025,12,2025-11-23,20:20,Houston Texans,true,both,regular,Sunday Night Football
+Jacksonville Jaguars,,2025,14,2025-12-07,13:00,Tennessee Titans,true,both,regular,
+Jacksonville Jaguars,,2025,16,2025-12-21,20:15,Indianapolis Colts,true,both,regular,Monday Night Football
+Jacksonville Jaguars,,2025,18,2026-01-04,20:15,New York Giants,true,both,regular,Thursday Night Football
+Miami Dolphins,,2025,1,2025-09-07,13:00,New England Patriots,true,both,regular,
+Miami Dolphins,,2025,3,2025-09-21,16:25,Indianapolis Colts,true,both,regular,
+Miami Dolphins,,2025,5,2025-10-02,20:15,New York Jets,true,both,regular,Thursday Night Football
+Miami Dolphins,,2025,7,2025-10-19,13:00,New England Patriots,true,both,regular,
+Miami Dolphins,,2025,9,2025-11-02,13:00,Las Vegas Raiders,true,both,regular,
+Miami Dolphins,NFL International Shipping - Boston,2025,11,2025-11-16,14:30,Washington Commanders,true,both,regular,Equipment pre-shipped to Boston container Week 2
+Miami Dolphins,,2025,14,2025-12-07,20:20,San Francisco 49ers,true,both,regular,Sunday Night Football
+Miami Dolphins,,2025,16,2025-12-21,20:15,Buffalo Bills,true,both,regular,Monday Night Football
+Miami Dolphins,,2025,18,2026-01-04,13:00,New York Jets,true,both,regular,
+Tampa Bay Buccaneers,,2025,1,2025-09-07,13:00,Atlanta Falcons,true,both,regular,
+Tampa Bay Buccaneers,,2025,3,2025-09-21,13:00,San Francisco 49ers,true,both,regular,
+Tampa Bay Buccaneers,,2025,5,2025-10-05,13:00,Washington Commanders,true,both,regular,
+Tampa Bay Buccaneers,,2025,7,2025-10-19,20:20,New Orleans Saints,true,both,regular,Sunday Night Football
+Tampa Bay Buccaneers,,2025,8,2025-10-23,20:15,Atlanta Falcons,true,both,regular,Thursday Night Football
+Tampa Bay Buccaneers,,2025,11,2025-11-16,13:00,Carolina Panthers,true,both,regular,
+Tampa Bay Buccaneers,,2025,14,2025-12-08,20:15,Miami Dolphins,true,both,regular,Monday Night Football
+Tampa Bay Buccaneers,,2025,16,2025-12-21,16:25,Dallas Cowboys,true,both,regular,
+Tampa Bay Buccaneers,,2025,18,2026-01-04,13:00,New Orleans Saints,true,both,regular,
+Atlanta Falcons,,2025,1,2025-09-07,16:25,Los Angeles Chargers,true,both,regular,
+Atlanta Falcons,,2025,3,2025-09-22,20:15,Dallas Cowboys,true,both,regular,Monday Night Football
+Atlanta Falcons,,2025,4,2025-09-28,13:00,Philadelphia Eagles,true,both,regular,
+Atlanta Falcons,,2025,7,2025-10-19,13:00,Tampa Bay Buccaneers,true,both,regular,
+Atlanta Falcons,,2025,9,2025-11-02,13:00,New Orleans Saints,true,both,regular,
+Atlanta Falcons,,2025,11,2025-11-16,16:25,Carolina Panthers,true,both,regular,
+Atlanta Falcons,,2025,13,2025-11-30,20:20,Las Vegas Raiders,true,both,regular,Sunday Night Football
+Atlanta Falcons,,2025,15,2025-12-11,20:15,Tennessee Titans,true,both,regular,Thursday Night Football
+Atlanta Falcons,,2025,17,2025-12-28,13:00,New Orleans Saints,true,both,regular,
+Carolina Panthers,,2025,1,2025-09-07,13:00,Houston Texans,true,both,regular,
+Carolina Panthers,,2025,3,2025-09-21,13:00,New York Giants,true,both,regular,
+Carolina Panthers,,2025,5,2025-10-02,20:15,Atlanta Falcons,true,both,regular,Thursday Night Football
+Carolina Panthers,,2025,7,2025-10-19,13:00,New Orleans Saints,true,both,regular,
+Carolina Panthers,,2025,9,2025-11-02,13:00,Tampa Bay Buccaneers,true,both,regular,
+Carolina Panthers,,2025,11,2025-11-16,13:00,Detroit Lions,true,both,regular,
+Carolina Panthers,,2025,13,2025-11-30,13:00,Washington Commanders,true,both,regular,
+Carolina Panthers,,2025,16,2025-12-21,20:20,Atlanta Falcons,true,both,regular,Sunday Night Football
+Carolina Panthers,,2025,18,2026-01-04,20:15,Tampa Bay Buccaneers,true,both,regular,Monday Night Football
+Washington Commanders,,2025,1,2025-09-07,13:00,Seattle Seahawks,true,both,regular,
+Washington Commanders,,2025,3,2025-09-21,13:00,Arizona Cardinals,true,both,regular,
+Washington Commanders,,2025,5,2025-10-05,13:00,New York Giants,true,both,regular,
+Washington Commanders,,2025,7,2025-10-19,16:25,Dallas Cowboys,true,both,regular,
+Washington Commanders,,2025,9,2025-11-02,20:20,Philadelphia Eagles,true,both,regular,Sunday Night Football
+Washington Commanders,,2025,11,2025-11-16,13:00,New Orleans Saints,true,both,regular,
+Washington Commanders,,2025,14,2025-12-04,20:15,New York Giants,true,both,regular,Thursday Night Football
+Washington Commanders,,2025,16,2025-12-21,13:00,Philadelphia Eagles,true,both,regular,
+Washington Commanders,,2025,18,2026-01-04,20:15,Dallas Cowboys,true,both,regular,Monday Night Football
+New Orleans Saints,,2025,1,2025-09-08,20:15,Philadelphia Eagles,true,both,regular,Monday Night Football
+New Orleans Saints,,2025,3,2025-09-21,13:00,Cleveland Browns,true,both,regular,
+New Orleans Saints,,2025,5,2025-10-05,13:00,Carolina Panthers,true,both,regular,
+New Orleans Saints,,2025,7,2025-10-19,13:00,San Francisco 49ers,true,both,regular,
+New Orleans Saints,,2025,9,2025-10-30,20:15,Atlanta Falcons,true,both,regular,Thursday Night Football
+New Orleans Saints,,2025,13,2025-11-30,20:20,Tampa Bay Buccaneers,true,both,regular,Sunday Night Football
+New Orleans Saints,,2025,15,2025-12-14,16:25,Los Angeles Rams,true,both,regular,
+New Orleans Saints,,2025,17,2025-12-28,13:00,Denver Broncos,true,both,regular,
+New Orleans Saints,,2025,18,2026-01-04,13:00,Atlanta Falcons,true,both,regular,
+Dallas Cowboys,,2025,2,2025-09-14,16:25,New York Giants,true,both,regular,
+Dallas Cowboys,,2025,4,2025-09-28,13:00,Carolina Panthers,true,both,regular,
+Dallas Cowboys,,2025,6,2025-10-12,13:00,Detroit Lions,true,both,regular,
+Dallas Cowboys,,2025,8,2025-10-26,13:00,Denver Broncos,true,both,regular,
+Dallas Cowboys,,2025,9,2025-11-02,16:25,San Francisco 49ers,true,both,regular,
+Dallas Cowboys,,2025,12,2025-11-23,20:20,Pittsburgh Steelers,true,both,regular,Sunday Night Football
+Dallas Cowboys,,2025,13,2025-11-27,12:30,Washington Commanders,true,both,regular,Thanksgiving Day
+Dallas Cowboys,,2025,15,2025-12-14,13:00,Arizona Cardinals,true,both,regular,
+Dallas Cowboys,,2025,17,2025-12-28,16:25,Los Angeles Chargers,true,both,regular,
+Cleveland Browns,NFL International Shipping - Boston,2025,5,2025-10-05,14:30,Chicago Bears,true,both,regular,Equipment pre-shipped to Boston container Week 2
+Ohio State Buckeyes,,2025,0,2025-08-30,19:00,Texas State Bobcats,true,both,regular,
+Ohio State Buckeyes,,2025,2,2025-09-13,12:00,Buffalo Bulls,true,both,regular,
+Ohio State Buckeyes,,2025,4,2025-09-27,15:30,Washington Huskies,true,both,regular,Conference game
+Ohio State Buckeyes,,2025,7,2025-10-18,12:00,Penn State Nittany Lions,true,both,regular,Conference game
+Ohio State Buckeyes,,2025,9,2025-11-01,19:00,Nebraska Cornhuskers,true,both,regular,Conference game
+Ohio State Buckeyes,,2025,12,2025-11-22,12:00,Michigan Wolverines,true,both,regular,Conference game
+Michigan Wolverines,,2025,0,2025-08-30,19:00,New Mexico Lobos,true,both,regular,
+Michigan Wolverines,,2025,1,2025-09-06,12:00,Oklahoma Sooners,true,both,regular,
+Michigan Wolverines,,2025,4,2025-09-27,15:30,Iowa Hawkeyes,true,both,regular,Conference game
+Michigan Wolverines,,2025,7,2025-10-18,19:00,Illinois Fighting Illini,true,both,regular,Conference game
+Michigan Wolverines,,2025,9,2025-11-01,12:00,Indiana Hoosiers,true,both,regular,Conference game
+Michigan Wolverines,,2025,11,2025-11-15,15:30,Maryland Terrapins,true,both,regular,Conference game
+Michigan State Spartans,,2025,0,2025-08-30,19:00,Western Michigan Broncos,true,both,regular,
+Michigan State Spartans,,2025,2,2025-09-13,15:30,Tulsa Golden Hurricane,true,both,regular,
+Michigan State Spartans,,2025,5,2025-10-04,12:00,Iowa Hawkeyes,true,both,regular,Conference game
+Michigan State Spartans,,2025,8,2025-10-25,15:30,Indiana Hoosiers,true,both,regular,Conference game
+Michigan State Spartans,,2025,10,2025-11-08,12:00,Purdue Boilermakers,true,both,regular,Conference game
+Michigan State Spartans,,2025,12,2025-11-22,19:00,Penn State Nittany Lions,true,both,regular,Conference game
+Penn State Nittany Lions,,2025,0,2025-08-30,15:30,Akron Zips,true,both,regular,
+Penn State Nittany Lions,,2025,2,2025-09-13,12:00,Bowling Green Falcons,true,both,regular,
+Penn State Nittany Lions,,2025,5,2025-10-04,19:00,UCLA Bruins,true,both,regular,Conference game
+Penn State Nittany Lions,,2025,8,2025-10-25,12:00,Minnesota Golden Gophers,true,both,regular,Conference game
+Penn State Nittany Lions,,2025,10,2025-11-08,15:30,Maryland Terrapins,true,both,regular,Conference game
+Penn State Nittany Lions,,2025,12,2025-11-22,12:00,Rutgers Scarlet Knights,true,both,regular,Conference game
+Indiana Hoosiers,,2025,0,2025-08-30,19:00,Ball State Cardinals,true,both,regular,
+Indiana Hoosiers,,2025,2,2025-09-13,12:00,Eastern Illinois Panthers,true,both,regular,
+Indiana Hoosiers,,2025,4,2025-09-27,15:30,Rutgers Scarlet Knights,true,both,regular,Conference game
+Indiana Hoosiers,,2025,7,2025-10-18,12:00,Wisconsin Badgers,true,both,regular,Conference game
+Indiana Hoosiers,,2025,10,2025-11-08,19:00,Minnesota Golden Gophers,true,both,regular,Conference game
+Indiana Hoosiers,,2025,12,2025-11-22,15:30,Purdue Boilermakers,true,both,regular,Conference game
+Purdue Boilermakers,,2025,0,2025-08-30,12:00,Marshall Thundering Herd,true,both,regular,
+Purdue Boilermakers,,2025,2,2025-09-13,19:00,Southern Illinois Salukis,true,both,regular,
+Purdue Boilermakers,,2025,5,2025-10-04,15:30,Northwestern Wildcats,true,both,regular,Conference game
+Purdue Boilermakers,,2025,7,2025-10-18,12:00,Nebraska Cornhuskers,true,both,regular,Conference game
+Purdue Boilermakers,,2025,9,2025-11-01,15:30,Illinois Fighting Illini,true,both,regular,Conference game
+Purdue Boilermakers,,2025,11,2025-11-15,12:00,Wisconsin Badgers,true,both,regular,Conference game
+Northwestern Wildcats,,2025,0,2025-08-30,15:30,Eastern Michigan Eagles,true,both,regular,
+Northwestern Wildcats,,2025,1,2025-09-06,12:00,Duke Blue Devils,true,both,regular,
+Northwestern Wildcats,,2025,5,2025-10-04,19:00,Nebraska Cornhuskers,true,both,regular,Conference game
+Northwestern Wildcats,,2025,7,2025-10-18,15:30,Maryland Terrapins,true,both,regular,Conference game
+Northwestern Wildcats,,2025,10,2025-11-08,12:00,Iowa Hawkeyes,true,both,regular,Conference game
+Northwestern Wildcats,,2025,12,2025-11-22,15:30,Illinois Fighting Illini,true,both,regular,Conference game
+Illinois Fighting Illini,,2025,0,2025-08-30,12:00,Eastern Kentucky Colonels,true,both,regular,
+Illinois Fighting Illini,,2025,2,2025-09-13,15:30,South Florida Bulls,true,both,regular,
+Illinois Fighting Illini,,2025,4,2025-09-27,12:00,Purdue Boilermakers,true,both,regular,Conference game
+Illinois Fighting Illini,,2025,8,2025-10-25,19:00,Nebraska Cornhuskers,true,both,regular,Conference game
+Illinois Fighting Illini,,2025,10,2025-11-08,15:30,Minnesota Golden Gophers,true,both,regular,Conference game
+Illinois Fighting Illini,,2025,12,2025-11-22,12:00,Northwestern Wildcats,true,both,regular,Conference game
+Iowa Hawkeyes,,2025,0,2025-08-30,15:30,Northern Iowa Panthers,true,both,regular,
+Iowa Hawkeyes,,2025,1,2025-09-06,19:00,Illinois State Redbirds,true,both,regular,
+Iowa Hawkeyes,,2025,4,2025-09-27,12:00,Northwestern Wildcats,true,both,regular,Conference game
+Iowa Hawkeyes,,2025,7,2025-10-18,15:30,Ohio State Buckeyes,true,both,regular,Conference game
+Iowa Hawkeyes,,2025,9,2025-11-01,12:00,Wisconsin Badgers,true,both,regular,Conference game
+Iowa Hawkeyes,,2025,11,2025-11-15,15:30,Nebraska Cornhuskers,true,both,regular,Conference game
+Minnesota Golden Gophers,,2025,0,2025-08-30,12:00,North Dakota State Bison,true,both,regular,
+Minnesota Golden Gophers,,2025,2,2025-09-13,15:30,Kent State Golden Flashes,true,both,regular,
+Minnesota Golden Gophers,,2025,5,2025-10-04,12:00,Michigan State Spartans,true,both,regular,Conference game
+Minnesota Golden Gophers,,2025,7,2025-10-18,19:00,Rutgers Scarlet Knights,true,both,regular,Conference game
+Minnesota Golden Gophers,,2025,9,2025-11-01,15:30,Purdue Boilermakers,true,both,regular,Conference game
+Minnesota Golden Gophers,,2025,12,2025-11-22,12:00,Wisconsin Badgers,true,both,regular,Conference game
+Wisconsin Badgers,,2025,0,2025-08-30,15:30,South Dakota Coyotes,true,both,regular,
+Wisconsin Badgers,,2025,2,2025-09-13,12:00,Fresno State Bulldogs,true,both,regular,
+Wisconsin Badgers,,2025,4,2025-09-27,19:00,Michigan Wolverines,true,both,regular,Conference game
+Wisconsin Badgers,,2025,8,2025-10-25,12:00,Iowa Hawkeyes,true,both,regular,Conference game
+Wisconsin Badgers,,2025,10,2025-11-08,15:30,Oregon Ducks,true,both,regular,Conference game
+Wisconsin Badgers,,2025,12,2025-11-22,12:00,Minnesota Golden Gophers,true,both,regular,Conference game
+Rutgers Scarlet Knights,,2025,0,2025-08-30,19:00,Howard Bison,true,both,regular,
+Rutgers Scarlet Knights,,2025,2,2025-09-13,12:00,Temple Owls,true,both,regular,
+Rutgers Scarlet Knights,,2025,5,2025-10-04,15:30,Michigan State Spartans,true,both,regular,Conference game
+Rutgers Scarlet Knights,,2025,8,2025-10-25,12:00,USC Trojans,true,both,regular,Conference game
+Rutgers Scarlet Knights,,2025,10,2025-11-08,19:00,Indiana Hoosiers,true,both,regular,Conference game
+Rutgers Scarlet Knights,,2025,12,2025-11-22,15:30,Maryland Terrapins,true,both,regular,Conference game
+Maryland Terrapins,,2025,0,2025-08-30,12:00,Towson Tigers,true,both,regular,
+Maryland Terrapins,,2025,1,2025-09-06,15:30,Virginia Cavaliers,true,both,regular,
+Maryland Terrapins,,2025,4,2025-09-27,12:00,Michigan State Spartans,true,both,regular,Conference game
+Maryland Terrapins,,2025,7,2025-10-18,19:00,Wisconsin Badgers,true,both,regular,Conference game
+Maryland Terrapins,,2025,9,2025-11-01,12:00,Oregon Ducks,true,both,regular,Conference game
+Maryland Terrapins,,2025,11,2025-11-15,15:30,Indiana Hoosiers,true,both,regular,Conference game
+Nebraska Cornhuskers,,2025,0,2025-08-30,19:00,Southern Miss Golden Eagles,true,both,regular,
+Nebraska Cornhuskers,,2025,2,2025-09-13,12:00,Akron Zips,true,both,regular,
+Nebraska Cornhuskers,,2025,4,2025-09-27,15:30,Illinois Fighting Illini,true,both,regular,Conference game
+Nebraska Cornhuskers,,2025,8,2025-10-25,12:00,UCLA Bruins,true,both,regular,Conference game
+Nebraska Cornhuskers,,2025,10,2025-11-08,19:00,USC Trojans,true,both,regular,Conference game
+Nebraska Cornhuskers,,2025,12,2025-11-22,15:30,Iowa Hawkeyes,true,both,regular,Conference game
+Pittsburgh Panthers,,2025,0,2025-08-30,12:00,Kent State Golden Flashes,true,both,regular,
+Pittsburgh Panthers,,2025,2,2025-09-13,19:00,Youngstown State Penguins,true,both,regular,
+Pittsburgh Panthers,,2025,5,2025-10-04,15:30,Virginia Tech Hokies,true,both,regular,Conference game
+Pittsburgh Panthers,,2025,7,2025-10-18,12:00,Syracuse Orange,true,both,regular,Conference game
+Pittsburgh Panthers,,2025,10,2025-11-08,19:00,Clemson Tigers,true,both,regular,Conference game
+Pittsburgh Panthers,,2025,12,2025-11-22,15:30,Boston College Eagles,true,both,regular,Conference game
+Syracuse Orange,,2025,0,2025-08-30,19:00,Colgate Raiders,true,both,regular,
+Syracuse Orange,,2025,1,2025-09-06,12:00,Army Black Knights,true,both,regular,
+Syracuse Orange,,2025,4,2025-09-27,15:30,Stanford Cardinal,true,both,regular,Conference game
+Syracuse Orange,,2025,8,2025-10-25,12:00,Louisville Cardinals,true,both,regular,Conference game
+Syracuse Orange,,2025,10,2025-11-08,19:00,Wake Forest Demon Deacons,true,both,regular,Conference game
+Syracuse Orange,,2025,12,2025-11-22,15:30,Boston College Eagles,true,both,regular,Conference game
+Boston College Eagles,,2025,0,2025-08-30,12:00,UMass Minutemen,true,both,regular,
+Boston College Eagles,,2025,2,2025-09-13,19:00,Connecticut Huskies,true,both,regular,
+Boston College Eagles,,2025,4,2025-09-27,12:00,Virginia Cavaliers,true,both,regular,Conference game
+Boston College Eagles,,2025,7,2025-10-18,15:30,Duke Blue Devils,true,both,regular,Conference game
+Boston College Eagles,,2025,9,2025-11-01,12:00,NC State Wolfpack,true,both,regular,Conference game
+Boston College Eagles,,2025,11,2025-11-15,19:00,Syracuse Orange,true,both,regular,Conference game
+Virginia Cavaliers,,2025,0,2025-08-30,15:30,Richmond Spiders,true,both,regular,
+Virginia Cavaliers,,2025,2,2025-09-13,12:00,James Madison Dukes,true,both,regular,
+Virginia Cavaliers,,2025,5,2025-10-04,19:00,Georgia Tech Yellow Jackets,true,both,regular,Conference game
+Virginia Cavaliers,,2025,7,2025-10-18,12:00,North Carolina Tar Heels,true,both,regular,Conference game
+Virginia Cavaliers,,2025,9,2025-11-01,15:30,Wake Forest Demon Deacons,true,both,regular,Conference game
+Virginia Cavaliers,,2025,12,2025-11-22,12:00,Virginia Tech Hokies,true,both,regular,Conference game
+Virginia Tech Hokies,,2025,0,2025-08-30,19:00,Vanderbilt Commodores,true,both,regular,
+Virginia Tech Hokies,,2025,1,2025-09-06,15:30,East Carolina Pirates,true,both,regular,
+Virginia Tech Hokies,,2025,4,2025-09-27,12:00,Miami Hurricanes,true,both,regular,Conference game
+Virginia Tech Hokies,,2025,7,2025-10-18,19:00,NC State Wolfpack,true,both,regular,Conference game
+Virginia Tech Hokies,,2025,10,2025-11-08,12:00,Boston College Eagles,true,both,regular,Conference game
+Virginia Tech Hokies,,2025,12,2025-11-22,15:30,Virginia Cavaliers,true,both,regular,Conference game
+West Virginia Mountaineers,,2025,0,2025-08-30,12:00,Penn Quakers,true,both,regular,
+West Virginia Mountaineers,,2025,2,2025-09-13,19:00,Pitt Panthers,true,both,regular,
+West Virginia Mountaineers,,2025,4,2025-09-27,15:30,Kansas State Wildcats,true,both,regular,Conference game
+West Virginia Mountaineers,,2025,7,2025-10-18,12:00,Oklahoma State Cowboys,true,both,regular,Conference game
+West Virginia Mountaineers,,2025,9,2025-11-01,15:30,TCU Horned Frogs,true,both,regular,Conference game
+West Virginia Mountaineers,,2025,11,2025-11-15,12:00,Cincinnati Bearcats,true,both,regular,Conference game
+Cincinnati Bearcats,,2025,0,2025-08-30,19:00,Miami (OH) RedHawks,true,both,regular,
+Cincinnati Bearcats,,2025,2,2025-09-13,12:00,Pittsburgh Panthers,true,both,regular,
+Cincinnati Bearcats,,2025,5,2025-10-04,15:30,BYU Cougars,true,both,regular,Conference game
+Cincinnati Bearcats,,2025,8,2025-10-25,12:00,Colorado Buffaloes,true,both,regular,Conference game
+Cincinnati Bearcats,,2025,10,2025-11-08,19:00,Iowa State Cyclones,true,both,regular,Conference game
+Cincinnati Bearcats,,2025,12,2025-11-22,12:00,West Virginia Mountaineers,true,both,regular,Conference game
+Notre Dame Fighting Irish,,2025,0,2025-08-30,19:30,Miami (OH) RedHawks,true,both,regular,
+Notre Dame Fighting Irish,,2025,2,2025-09-13,15:30,Purdue Boilermakers,true,both,regular,
+Notre Dame Fighting Irish,,2025,5,2025-10-04,19:00,Stanford Cardinal,true,both,regular,
+Notre Dame Fighting Irish,,2025,7,2025-10-18,15:30,USC Trojans,true,both,regular,
+Notre Dame Fighting Irish,,2025,10,2025-11-08,12:00,Navy Midshipmen,true,both,regular,
+Notre Dame Fighting Irish,,2025,12,2025-11-22,19:30,Army Black Knights,true,both,regular,
+Oregon Ducks,,2025,0,2025-08-30,19:30,Portland State Vikings,true,both,regular,
+Oregon Ducks,,2025,1,2025-09-06,15:30,Boise State Broncos,true,both,regular,
+Oregon Ducks,,2025,4,2025-09-27,19:00,Michigan Wolverines,true,both,regular,Conference game
+Oregon Ducks,,2025,7,2025-10-18,15:30,Purdue Boilermakers,true,both,regular,Conference game
+Oregon Ducks,,2025,10,2025-11-08,12:00,USC Trojans,true,both,regular,Conference game
+Oregon Ducks,,2025,12,2025-11-22,19:30,Washington Huskies,true,both,regular,Conference game
+Washington Huskies,,2025,0,2025-08-30,19:30,UC Davis Aggies,true,both,regular,
+Washington Huskies,,2025,2,2025-09-13,15:30,San Jose State Spartans,true,both,regular,
+Washington Huskies,,2025,5,2025-10-04,12:00,Penn State Nittany Lions,true,both,regular,Conference game
+Washington Huskies,,2025,8,2025-10-25,19:30,Iowa Hawkeyes,true,both,regular,Conference game
+Washington Huskies,,2025,10,2025-11-08,15:30,UCLA Bruins,true,both,regular,Conference game
+Washington Huskies,,2025,12,2025-11-22,12:00,Oregon Ducks,true,both,regular,Conference game
+UCLA Bruins,,2025,0,2025-08-30,19:30,Hawaii Rainbow Warriors,true,both,regular,
+UCLA Bruins,,2025,2,2025-09-13,15:30,Fresno State Bulldogs,true,both,regular,
+UCLA Bruins,,2025,4,2025-09-27,12:00,Oregon Ducks,true,both,regular,Conference game
+UCLA Bruins,,2025,7,2025-10-18,19:30,Nebraska Cornhuskers,true,both,regular,Conference game
+UCLA Bruins,,2025,9,2025-11-01,15:30,Washington Huskies,true,both,regular,Conference game
+UCLA Bruins,,2025,12,2025-11-22,12:00,USC Trojans,true,both,regular,Conference game
+USC Trojans,,2025,0,2025-08-30,19:30,San Diego State Aztecs,true,both,regular,
+USC Trojans,,2025,1,2025-09-06,15:30,Nevada Wolf Pack,true,both,regular,
+USC Trojans,,2025,5,2025-10-04,19:00,Penn State Nittany Lions,true,both,regular,Conference game
+USC Trojans,,2025,7,2025-10-18,12:00,Michigan State Spartans,true,both,regular,Conference game
+USC Trojans,,2025,9,2025-11-01,15:30,Maryland Terrapins,true,both,regular,Conference game
+USC Trojans,,2025,11,2025-11-15,19:30,UCLA Bruins,true,both,regular,Conference game
+Kansas Jayhawks,,2025,0,2025-08-30,19:00,Lindenwood Lions,true,both,regular,
+Kansas Jayhawks,,2025,2,2025-09-13,15:30,UNLV Rebels,true,both,regular,
+Kansas Jayhawks,,2025,4,2025-09-27,12:00,Houston Cougars,true,both,regular,Conference game
+Kansas Jayhawks,,2025,7,2025-10-18,15:30,Texas Tech Red Raiders,true,both,regular,Conference game
+Kansas Jayhawks,,2025,10,2025-11-08,12:00,Oklahoma State Cowboys,true,both,regular,Conference game
+Kansas Jayhawks,,2025,12,2025-11-22,19:00,Kansas State Wildcats,true,both,regular,Conference game
+Kansas State Wildcats,,2025,0,2025-08-30,19:00,UT Martin Skyhawks,true,both,regular,
+Kansas State Wildcats,,2025,1,2025-09-06,15:30,Tulane Green Wave,true,both,regular,
+Kansas State Wildcats,,2025,5,2025-10-04,12:00,Baylor Bears,true,both,regular,Conference game
+Kansas State Wildcats,,2025,7,2025-10-18,19:00,Iowa State Cyclones,true,both,regular,Conference game
+Kansas State Wildcats,,2025,9,2025-11-01,12:00,Houston Cougars,true,both,regular,Conference game
+Kansas State Wildcats,,2025,11,2025-11-15,15:30,BYU Cougars,true,both,regular,Conference game
+Iowa State Cyclones,,2025,0,2025-08-30,12:00,Northern Iowa Panthers,true,both,regular,
+Iowa State Cyclones,,2025,2,2025-09-13,19:00,Iowa Hawkeyes,true,both,regular,
+Iowa State Cyclones,,2025,5,2025-10-04,15:30,Texas Tech Red Raiders,true,both,regular,Conference game
+Iowa State Cyclones,,2025,7,2025-10-18,12:00,UCF Knights,true,both,regular,Conference game
+Iowa State Cyclones,,2025,10,2025-11-08,19:00,Kansas Jayhawks,true,both,regular,Conference game
+Iowa State Cyclones,,2025,12,2025-11-22,15:30,Kansas State Wildcats,true,both,regular,Conference game
+Baylor Bears,,2025,0,2025-08-30,19:00,Tarleton State Texans,true,both,regular,
+Baylor Bears,,2025,2,2025-09-13,15:30,Air Force Falcons,true,both,regular,
+Baylor Bears,,2025,4,2025-09-27,12:00,TCU Horned Frogs,true,both,regular,Conference game
+Baylor Bears,,2025,7,2025-10-18,19:00,BYU Cougars,true,both,regular,Conference game
+Baylor Bears,,2025,9,2025-11-01,15:30,West Virginia Mountaineers,true,both,regular,Conference game
+Baylor Bears,,2025,11,2025-11-15,12:00,Texas Tech Red Raiders,true,both,regular,Conference game
+TCU Horned Frogs,,2025,0,2025-08-30,19:00,New Mexico State Aggies,true,both,regular,
+TCU Horned Frogs,,2025,1,2025-09-06,15:30,UAB Blazers,true,both,regular,
+TCU Horned Frogs,,2025,5,2025-10-04,12:00,Utah Utes,true,both,regular,Conference game
+TCU Horned Frogs,,2025,8,2025-10-25,15:30,Oklahoma State Cowboys,true,both,regular,Conference game
+TCU Horned Frogs,,2025,10,2025-11-08,19:00,Arizona State Sun Devils,true,both,regular,Conference game
+TCU Horned Frogs,,2025,12,2025-11-22,12:00,Baylor Bears,true,both,regular,Conference game
+Texas Tech Red Raiders,,2025,0,2025-08-30,19:00,Abilene Christian Wildcats,true,both,regular,
+Texas Tech Red Raiders,,2025,2,2025-09-13,15:30,North Texas Mean Green,true,both,regular,
+Texas Tech Red Raiders,,2025,4,2025-09-27,12:00,Arizona Wildcats,true,both,regular,Conference game
+Texas Tech Red Raiders,,2025,8,2025-10-25,19:00,Kansas Jayhawks,true,both,regular,Conference game
+Texas Tech Red Raiders,,2025,10,2025-11-08,15:30,TCU Horned Frogs,true,both,regular,Conference game
+Texas Tech Red Raiders,,2025,12,2025-11-22,12:00,Oklahoma State Cowboys,true,both,regular,Conference game
+Oklahoma State Cowboys,,2025,0,2025-08-30,19:00,Central Arkansas Bears,true,both,regular,
+Oklahoma State Cowboys,,2025,1,2025-09-06,15:30,Tulsa Golden Hurricane,true,both,regular,
+Oklahoma State Cowboys,,2025,5,2025-10-04,12:00,Arizona State Sun Devils,true,both,regular,Conference game
+Oklahoma State Cowboys,,2025,7,2025-10-18,19:00,Colorado Buffaloes,true,both,regular,Conference game
+Oklahoma State Cowboys,,2025,9,2025-11-01,15:30,Kansas State Wildcats,true,both,regular,Conference game
+Oklahoma State Cowboys,,2025,12,2025-11-22,12:00,Texas Tech Red Raiders,true,both,regular,Conference game
+BYU Cougars,,2025,0,2025-08-30,19:30,Utah Tech Trailblazers,true,both,regular,
+BYU Cougars,,2025,2,2025-09-13,15:30,Wyoming Cowboys,true,both,regular,
+BYU Cougars,,2025,4,2025-09-27,12:00,Iowa State Cyclones,true,both,regular,Conference game
+BYU Cougars,,2025,8,2025-10-25,19:30,Houston Cougars,true,both,regular,Conference game
+BYU Cougars,,2025,10,2025-11-08,15:30,Arizona Wildcats,true,both,regular,Conference game
+BYU Cougars,,2025,12,2025-11-22,12:00,Utah Utes,true,both,regular,Conference game
+Colorado Buffaloes,,2025,0,2025-08-30,19:30,North Dakota State Bison,true,both,regular,
+Colorado Buffaloes,,2025,1,2025-09-06,15:30,Nebraska Cornhuskers,true,both,regular,
+Colorado Buffaloes,,2025,5,2025-10-04,12:00,Kansas Jayhawks,true,both,regular,Conference game
+Colorado Buffaloes,,2025,7,2025-10-18,19:30,UCF Knights,true,both,regular,Conference game
+Colorado Buffaloes,,2025,10,2025-11-08,15:30,Texas Tech Red Raiders,true,both,regular,Conference game
+Colorado Buffaloes,,2025,12,2025-11-22,12:00,Utah Utes,true,both,regular,Conference game
+Utah Utes,,2025,0,2025-08-30,19:30,Southern Utah Thunderbirds,true,both,regular,
+Utah Utes,,2025,2,2025-09-13,15:30,UTSA Roadrunners,true,both,regular,
+Utah Utes,,2025,4,2025-09-27,12:00,Arizona State Sun Devils,true,both,regular,Conference game
+Utah Utes,,2025,8,2025-10-25,19:30,Oklahoma State Cowboys,true,both,regular,Conference game
+Utah Utes,,2025,10,2025-11-08,12:00,Iowa State Cyclones,true,both,regular,Conference game
+Utah Utes,,2025,12,2025-11-22,15:30,BYU Cougars,true,both,regular,Conference game
+Houston Cougars,,2025,0,2025-08-30,19:00,Rice Owls,true,both,regular,
+Houston Cougars,,2025,2,2025-09-13,15:30,Sam Houston State Bearkats,true,both,regular,
+Houston Cougars,,2025,5,2025-10-04,12:00,West Virginia Mountaineers,true,both,regular,Conference game
+Houston Cougars,,2025,7,2025-10-18,19:00,Baylor Bears,true,both,regular,Conference game
+Houston Cougars,,2025,10,2025-11-08,15:30,UCF Knights,true,both,regular,Conference game
+Houston Cougars,,2025,12,2025-11-22,12:00,Kansas Jayhawks,true,both,regular,Conference game
+Arizona State Sun Devils,,2025,0,2025-08-30,19:30,Eastern Washington Eagles,true,both,regular,
+Arizona State Sun Devils,,2025,2,2025-09-13,15:30,Mississippi State Bulldogs,true,both,regular,
+Arizona State Sun Devils,,2025,4,2025-09-27,12:00,UCF Knights,true,both,regular,Conference game
+Arizona State Sun Devils,,2025,8,2025-10-25,19:30,Iowa State Cyclones,true,both,regular,Conference game
+Arizona State Sun Devils,,2025,10,2025-11-08,12:00,Colorado Buffaloes,true,both,regular,Conference game
+Arizona State Sun Devils,,2025,12,2025-11-22,15:30,Arizona Wildcats,true,both,regular,Conference game
+Missouri Tigers,,2025,0,2025-08-30,19:00,Central Michigan Chippewas,true,both,regular,
+Missouri Tigers,,2025,2,2025-09-13,15:30,Buffalo Bulls,true,both,regular,
+Missouri Tigers,,2025,5,2025-10-04,12:00,Georgia Bulldogs,true,both,regular,Conference game
+Missouri Tigers,,2025,8,2025-10-25,19:00,Arkansas Razorbacks,true,both,regular,Conference game
+Missouri Tigers,,2025,10,2025-11-08,15:30,Kentucky Wildcats,true,both,regular,Conference game
+Missouri Tigers,,2025,12,2025-11-22,12:00,Arkansas Razorbacks,true,both,regular,Conference game
+Arkansas Razorbacks,,2025,0,2025-08-30,19:00,Arkansas Pine Bluff Golden Lions,true,both,regular,
+Arkansas Razorbacks,,2025,1,2025-09-06,15:30,UAB Blazers,true,both,regular,
+Arkansas Razorbacks,,2025,4,2025-09-27,12:00,Texas A&M Aggies,true,both,regular,Conference game
+Arkansas Razorbacks,,2025,7,2025-10-18,19:00,Ole Miss Rebels,true,both,regular,Conference game
+Arkansas Razorbacks,,2025,9,2025-11-01,15:30,Mississippi State Bulldogs,true,both,regular,Conference game
+Arkansas Razorbacks,,2025,11,2025-11-15,12:00,LSU Tigers,true,both,regular,Conference game
+Oklahoma Sooners,,2025,0,2025-08-30,19:00,Temple Owls,true,both,regular,
+Oklahoma Sooners,,2025,2,2025-09-13,15:30,Houston Cougars,true,both,regular,
+Oklahoma Sooners,,2025,5,2025-10-04,12:00,Texas Longhorns,true,both,regular,Conference game
+Oklahoma Sooners,,2025,7,2025-10-18,15:30,South Carolina Gamecocks,true,both,regular,Conference game
+Oklahoma Sooners,,2025,10,2025-11-08,19:00,Missouri Tigers,true,both,regular,Conference game
+Oklahoma Sooners,,2025,12,2025-11-22,15:30,Alabama Crimson Tide,true,both,regular,Conference game
+Texas Longhorns,,2025,0,2025-08-30,19:00,UTEP Miners,true,both,regular,
+Texas Longhorns,,2025,1,2025-09-06,12:00,Ohio State Buckeyes,true,both,regular,
+Texas Longhorns,,2025,4,2025-09-27,15:30,Mississippi State Bulldogs,true,both,regular,Conference game
+Texas Longhorns,,2025,7,2025-10-18,19:00,Georgia Bulldogs,true,both,regular,Conference game
+Texas Longhorns,,2025,9,2025-11-01,12:00,Florida Gators,true,both,regular,Conference game
+Texas Longhorns,,2025,12,2025-11-22,15:30,Texas A&M Aggies,true,both,regular,Conference game
+Texas A&M Aggies,,2025,0,2025-08-30,19:00,Lamar Cardinals,true,both,regular,
+Texas A&M Aggies,,2025,2,2025-09-13,15:30,Bowling Green Falcons,true,both,regular,
+Texas A&M Aggies,,2025,5,2025-10-04,12:00,Mississippi State Bulldogs,true,both,regular,Conference game
+Texas A&M Aggies,,2025,8,2025-10-25,19:00,South Carolina Gamecocks,true,both,regular,Conference game
+Texas A&M Aggies,,2025,10,2025-11-08,15:30,Auburn Tigers,true,both,regular,Conference game
+Texas A&M Aggies,,2025,12,2025-11-22,12:00,Texas Longhorns,true,both,regular,Conference game
+SMU Mustangs,,2025,0,2025-08-30,19:00,North Texas Mean Green,true,both,regular,
+SMU Mustangs,,2025,2,2025-09-13,15:30,UTSA Roadrunners,true,both,regular,
+SMU Mustangs,,2025,4,2025-09-27,12:00,Duke Blue Devils,true,both,regular,Conference game
+SMU Mustangs,,2025,8,2025-10-25,19:00,Miami Hurricanes,true,both,regular,Conference game
+SMU Mustangs,,2025,10,2025-11-08,15:30,Louisville Cardinals,true,both,regular,Conference game
+SMU Mustangs,,2025,12,2025-11-22,12:00,California Golden Bears,true,both,regular,Conference game
+Stanford Cardinal,,2025,0,2025-08-30,19:30,Sacramento State Hornets,true,both,regular,
+Stanford Cardinal,,2025,2,2025-09-13,15:30,TCU Horned Frogs,true,both,regular,
+Stanford Cardinal,,2025,5,2025-10-04,12:00,Wake Forest Demon Deacons,true,both,regular,Conference game
+Stanford Cardinal,,2025,7,2025-10-18,19:30,Florida State Seminoles,true,both,regular,Conference game
+Stanford Cardinal,,2025,10,2025-11-08,15:30,North Carolina Tar Heels,true,both,regular,Conference game
+Stanford Cardinal,,2025,12,2025-11-22,12:00,California Golden Bears,true,both,regular,Conference game
+California Golden Bears,,2025,0,2025-08-30,19:30,UC Santa Barbara Gauchos,true,both,regular,
+California Golden Bears,,2025,1,2025-09-06,15:30,UNLV Rebels,true,both,regular,
+California Golden Bears,,2025,5,2025-10-04,12:00,Syracuse Orange,true,both,regular,Conference game
+California Golden Bears,,2025,8,2025-10-25,19:30,NC State Wolfpack,true,both,regular,Conference game
+California Golden Bears,,2025,10,2025-11-08,15:30,Clemson Tigers,true,both,regular,Conference game
+California Golden Bears,,2025,12,2025-11-22,12:00,Stanford Cardinal,true,both,regular,Conference game
+Alabama Crimson Tide,,2025,0,2025-08-30,19:00,Western Kentucky Hilltoppers,true,both,regular,
+Alabama Crimson Tide,,2025,2,2025-09-13,15:30,South Florida Bulls,true,both,regular,
+Alabama Crimson Tide,,2025,5,2025-10-04,12:00,Georgia Bulldogs,true,both,regular,Conference game
+Alabama Crimson Tide,,2025,7,2025-10-18,15:30,Tennessee Volunteers,true,both,regular,Conference game
+Alabama Crimson Tide,,2025,9,2025-11-01,19:00,LSU Tigers,true,both,regular,Conference game
+Alabama Crimson Tide,,2025,11,2025-11-15,12:00,Auburn Tigers,true,both,regular,Conference game
+Auburn Tigers,,2025,0,2025-08-30,19:00,Idaho Vandals,true,both,regular,
+Auburn Tigers,,2025,1,2025-09-06,15:30,California Golden Bears,true,both,regular,
+Auburn Tigers,,2025,5,2025-10-04,12:00,Vanderbilt Commodores,true,both,regular,Conference game
+Auburn Tigers,,2025,7,2025-10-18,19:00,Mississippi State Bulldogs,true,both,regular,Conference game
+Auburn Tigers,,2025,10,2025-11-08,15:30,Georgia Bulldogs,true,both,regular,Conference game
+Auburn Tigers,,2025,12,2025-11-22,12:00,Alabama Crimson Tide,true,both,regular,Conference game
+Florida Gators,,2025,0,2025-08-30,19:00,Eastern Michigan Eagles,true,both,regular,
+Florida Gators,,2025,2,2025-09-13,15:30,South Florida Bulls,true,both,regular,
+Florida Gators,,2025,4,2025-09-27,12:00,Mississippi State Bulldogs,true,both,regular,Conference game
+Florida Gators,,2025,7,2025-10-18,15:30,LSU Tigers,true,both,regular,Conference game
+Florida Gators,,2025,9,2025-11-01,19:00,Georgia Bulldogs,true,both,regular,Conference game
+Florida Gators,,2025,12,2025-11-22,15:30,Florida State Seminoles,true,both,regular,Conference game
+Georgia Bulldogs,,2025,0,2025-08-30,19:00,Tennessee Tech Golden Eagles,true,both,regular,
+Georgia Bulldogs,,2025,1,2025-09-06,15:30,Clemson Tigers,true,both,regular,
+Georgia Bulldogs,,2025,4,2025-09-27,12:00,Auburn Tigers,true,both,regular,Conference game
+Georgia Bulldogs,,2025,8,2025-10-25,19:00,Texas Longhorns,true,both,regular,Conference game
+Georgia Bulldogs,,2025,10,2025-11-08,15:30,Ole Miss Rebels,true,both,regular,Conference game
+Georgia Bulldogs,,2025,12,2025-11-22,12:00,Georgia Tech Yellow Jackets,true,both,regular,Conference game
+Kentucky Wildcats,,2025,0,2025-08-30,19:00,Western Michigan Broncos,true,both,regular,
+Kentucky Wildcats,,2025,2,2025-09-13,15:30,Ohio Bobcats,true,both,regular,
+Kentucky Wildcats,,2025,4,2025-09-27,12:00,South Carolina Gamecocks,true,both,regular,Conference game
+Kentucky Wildcats,,2025,7,2025-10-18,19:00,Florida Gators,true,both,regular,Conference game
+Kentucky Wildcats,,2025,9,2025-11-01,15:30,Vanderbilt Commodores,true,both,regular,Conference game
+Kentucky Wildcats,,2025,11,2025-11-15,12:00,Louisville Cardinals,true,both,regular,Conference game
+LSU Tigers,,2025,0,2025-08-30,19:00,Grambling State Tigers,true,both,regular,
+LSU Tigers,,2025,1,2025-09-06,15:30,Western Kentucky Hilltoppers,true,both,regular,
+LSU Tigers,,2025,4,2025-09-27,12:00,South Carolina Gamecocks,true,both,regular,Conference game
+LSU Tigers,,2025,8,2025-10-25,19:00,Texas A&M Aggies,true,both,regular,Conference game
+LSU Tigers,,2025,10,2025-11-08,15:30,Florida Gators,true,both,regular,Conference game
+LSU Tigers,,2025,12,2025-11-22,12:00,Ole Miss Rebels,true,both,regular,Conference game
+Mississippi State Bulldogs,,2025,0,2025-08-30,19:00,Southern Miss Golden Eagles,true,both,regular,
+Mississippi State Bulldogs,,2025,2,2025-09-13,15:30,Tulane Green Wave,true,both,regular,
+Mississippi State Bulldogs,,2025,5,2025-10-04,12:00,Tennessee Volunteers,true,both,regular,Conference game
+Mississippi State Bulldogs,,2025,8,2025-10-25,19:00,LSU Tigers,true,both,regular,Conference game
+Mississippi State Bulldogs,,2025,10,2025-11-08,15:30,Ole Miss Rebels,true,both,regular,Conference game
+Mississippi State Bulldogs,,2025,12,2025-11-22,12:00,Kentucky Wildcats,true,both,regular,Conference game
+Ole Miss Rebels,,2025,0,2025-08-30,19:00,Furman Paladins,true,both,regular,
+Ole Miss Rebels,,2025,1,2025-09-06,15:30,Middle Tennessee Blue Raiders,true,both,regular,
+Ole Miss Rebels,,2025,5,2025-10-04,12:00,South Carolina Gamecocks,true,both,regular,Conference game
+Ole Miss Rebels,,2025,7,2025-10-18,19:00,LSU Tigers,true,both,regular,Conference game
+Ole Miss Rebels,,2025,9,2025-11-01,15:30,Alabama Crimson Tide,true,both,regular,Conference game
+Ole Miss Rebels,,2025,11,2025-11-15,12:00,Vanderbilt Commodores,true,both,regular,Conference game
+South Carolina Gamecocks,,2025,0,2025-08-30,19:00,Old Dominion Monarchs,true,both,regular,
+South Carolina Gamecocks,,2025,2,2025-09-13,15:30,Charlotte 49ers,true,both,regular,
+South Carolina Gamecocks,,2025,5,2025-10-04,12:00,Alabama Crimson Tide,true,both,regular,Conference game
+South Carolina Gamecocks,,2025,7,2025-10-18,19:00,Texas A&M Aggies,true,both,regular,Conference game
+South Carolina Gamecocks,,2025,10,2025-11-08,15:30,Florida Gators,true,both,regular,Conference game
+South Carolina Gamecocks,,2025,12,2025-11-22,12:00,Clemson Tigers,true,both,regular,Conference game
+Tennessee Volunteers,,2025,0,2025-08-30,19:00,Chattanooga Mocs,true,both,regular,
+Tennessee Volunteers,,2025,2,2025-09-13,15:30,Kent State Golden Flashes,true,both,regular,
+Tennessee Volunteers,,2025,4,2025-09-27,12:00,Oklahoma Sooners,true,both,regular,Conference game
+Tennessee Volunteers,,2025,8,2025-10-25,19:00,Kentucky Wildcats,true,both,regular,Conference game
+Tennessee Volunteers,,2025,10,2025-11-08,15:30,Mississippi State Bulldogs,true,both,regular,Conference game
+Tennessee Volunteers,,2025,12,2025-11-22,12:00,Vanderbilt Commodores,true,both,regular,Conference game
+Vanderbilt Commodores,,2025,0,2025-08-30,19:00,Elon Phoenix,true,both,regular,
+Vanderbilt Commodores,,2025,2,2025-09-13,15:30,UNLV Rebels,true,both,regular,
+Vanderbilt Commodores,,2025,4,2025-09-27,12:00,Arkansas Razorbacks,true,both,regular,Conference game
+Vanderbilt Commodores,,2025,7,2025-10-18,19:00,Alabama Crimson Tide,true,both,regular,Conference game
+Vanderbilt Commodores,,2025,10,2025-11-08,15:30,South Carolina Gamecocks,true,both,regular,Conference game
+Vanderbilt Commodores,,2025,12,2025-11-22,12:00,Tennessee Volunteers,true,both,regular,Conference game
+Clemson Tigers,,2025,0,2025-08-30,19:00,Wofford Terriers,true,both,regular,
+Clemson Tigers,,2025,1,2025-09-06,15:30,Georgia Bulldogs,true,both,regular,
+Clemson Tigers,,2025,5,2025-10-04,12:00,Louisville Cardinals,true,both,regular,Conference game
+Clemson Tigers,,2025,7,2025-10-18,15:30,Duke Blue Devils,true,both,regular,Conference game
+Clemson Tigers,,2025,9,2025-11-01,19:00,NC State Wolfpack,true,both,regular,Conference game
+Clemson Tigers,,2025,12,2025-11-22,15:30,South Carolina Gamecocks,true,both,regular,Conference game
+Duke Blue Devils,,2025,0,2025-08-30,19:00,Elon Phoenix,true,both,regular,
+Duke Blue Devils,,2025,2,2025-09-13,15:30,Connecticut Huskies,true,both,regular,
+Duke Blue Devils,,2025,5,2025-10-04,12:00,SMU Mustangs,true,both,regular,Conference game
+Duke Blue Devils,,2025,8,2025-10-25,19:00,Virginia Tech Hokies,true,both,regular,Conference game
+Duke Blue Devils,,2025,10,2025-11-08,15:30,Pittsburgh Panthers,true,both,regular,Conference game
+Duke Blue Devils,,2025,12,2025-11-22,12:00,North Carolina Tar Heels,true,both,regular,Conference game
+Florida State Seminoles,,2025,0,2025-08-30,19:00,Duquesne Dukes,true,both,regular,
+Florida State Seminoles,,2025,1,2025-09-06,15:30,Alabama Crimson Tide,true,both,regular,
+Florida State Seminoles,,2025,4,2025-09-27,12:00,California Golden Bears,true,both,regular,Conference game
+Florida State Seminoles,,2025,7,2025-10-18,19:00,Louisville Cardinals,true,both,regular,Conference game
+Florida State Seminoles,,2025,9,2025-11-01,15:30,Miami Hurricanes,true,both,regular,Conference game
+Florida State Seminoles,,2025,11,2025-11-15,12:00,NC State Wolfpack,true,both,regular,Conference game
+Georgia Tech Yellow Jackets,,2025,0,2025-08-30,12:00,Kennesaw State Owls,true,both,regular,
+Georgia Tech Yellow Jackets,,2025,2,2025-09-13,19:00,Georgia State Panthers,true,both,regular,
+Georgia Tech Yellow Jackets,,2025,4,2025-09-27,15:30,Louisville Cardinals,true,both,regular,Conference game
+Georgia Tech Yellow Jackets,,2025,8,2025-10-25,12:00,Clemson Tigers,true,both,regular,Conference game
+Georgia Tech Yellow Jackets,,2025,10,2025-11-08,19:00,North Carolina Tar Heels,true,both,regular,Conference game
+Georgia Tech Yellow Jackets,,2025,12,2025-11-22,15:30,Georgia Bulldogs,true,both,regular,Conference game
+Louisville Cardinals,,2025,0,2025-08-30,19:00,Austin Peay Governors,true,both,regular,
+Louisville Cardinals,,2025,2,2025-09-13,15:30,Indiana Hoosiers,true,both,regular,
+Louisville Cardinals,,2025,5,2025-10-04,12:00,Stanford Cardinal,true,both,regular,Conference game
+Louisville Cardinals,,2025,7,2025-10-18,19:00,Boston College Eagles,true,both,regular,Conference game
+Louisville Cardinals,,2025,10,2025-11-08,15:30,NC State Wolfpack,true,both,regular,Conference game
+Louisville Cardinals,,2025,12,2025-11-22,12:00,Kentucky Wildcats,true,both,regular,Conference game
+Miami Hurricanes,,2025,0,2025-08-30,19:00,Bethune-Cookman Wildcats,true,both,regular,
+Miami Hurricanes,,2025,1,2025-09-06,15:30,Notre Dame Fighting Irish,true,both,regular,
+Miami Hurricanes,,2025,5,2025-10-04,12:00,Virginia Tech Hokies,true,both,regular,Conference game
+Miami Hurricanes,,2025,7,2025-10-18,19:00,Duke Blue Devils,true,both,regular,Conference game
+Miami Hurricanes,,2025,10,2025-11-08,15:30,Wake Forest Demon Deacons,true,both,regular,Conference game
+Miami Hurricanes,,2025,12,2025-11-22,12:00,Florida State Seminoles,true,both,regular,Conference game
+North Carolina Tar Heels,,2025,0,2025-08-30,19:00,Elon Phoenix,true,both,regular,
+North Carolina Tar Heels,,2025,2,2025-09-13,15:30,James Madison Dukes,true,both,regular,
+North Carolina Tar Heels,,2025,4,2025-09-27,12:00,Wake Forest Demon Deacons,true,both,regular,Conference game
+North Carolina Tar Heels,,2025,8,2025-10-25,19:00,Duke Blue Devils,true,both,regular,Conference game
+North Carolina Tar Heels,,2025,10,2025-11-08,15:30,Virginia Cavaliers,true,both,regular,Conference game
+North Carolina Tar Heels,,2025,12,2025-11-22,12:00,NC State Wolfpack,true,both,regular,Conference game
+NC State Wolfpack,,2025,0,2025-08-30,12:00,Louisiana Tech Bulldogs,true,both,regular,
+NC State Wolfpack,,2025,1,2025-09-06,19:00,Connecticut Huskies,true,both,regular,
+NC State Wolfpack,,2025,4,2025-09-27,15:30,Pittsburgh Panthers,true,both,regular,Conference game
+NC State Wolfpack,,2025,7,2025-10-18,12:00,Syracuse Orange,true,both,regular,Conference game
+NC State Wolfpack,,2025,9,2025-11-01,19:00,SMU Mustangs,true,both,regular,Conference game
+NC State Wolfpack,,2025,11,2025-11-15,15:30,Wake Forest Demon Deacons,true,both,regular,Conference game
+Wake Forest Demon Deacons,,2025,0,2025-08-30,19:00,Presbyterian Blue Hose,true,both,regular,
+Wake Forest Demon Deacons,,2025,2,2025-09-13,15:30,Liberty Flames,true,both,regular,
+Wake Forest Demon Deacons,,2025,5,2025-10-04,12:00,North Carolina Tar Heels,true,both,regular,Conference game
+Wake Forest Demon Deacons,,2025,7,2025-10-18,19:00,Pittsburgh Panthers,true,both,regular,Conference game
+Wake Forest Demon Deacons,,2025,9,2025-11-01,15:30,Georgia Tech Yellow Jackets,true,both,regular,Conference game
+Wake Forest Demon Deacons,,2025,12,2025-11-22,12:00,Duke Blue Devils,true,both,regular,Conference game
+UCF Knights,,2025,0,2025-08-30,19:00,Bethune-Cookman Wildcats,true,both,regular,
+UCF Knights,,2025,1,2025-09-06,15:30,Florida Atlantic Owls,true,both,regular,
+UCF Knights,,2025,4,2025-09-27,12:00,Arizona Wildcats,true,both,regular,Conference game
+UCF Knights,,2025,8,2025-10-25,19:00,West Virginia Mountaineers,true,both,regular,Conference game
+UCF Knights,,2025,10,2025-11-08,15:30,Iowa State Cyclones,true,both,regular,Conference game
+UCF Knights,,2025,12,2025-11-22,12:00,Houston Cougars,true,both,regular,Conference game
+Arizona Wildcats,,2025,0,2025-08-30,19:30,Northern Arizona Lumberjacks,true,both,regular,
+Arizona Wildcats,,2025,2,2025-09-13,15:30,UTEP Miners,true,both,regular,
+Arizona Wildcats,,2025,5,2025-10-04,12:00,Colorado Buffaloes,true,both,regular,Conference game
+Arizona Wildcats,,2025,7,2025-10-18,19:30,Baylor Bears,true,both,regular,Conference game
+Arizona Wildcats,,2025,10,2025-11-08,15:30,Oklahoma State Cowboys,true,both,regular,Conference game
+Arizona Wildcats,,2025,12,2025-11-22,12:00,Arizona State Sun Devils,true,both,regular,Conference game
+Memphis Tigers,,2025,7,2025-10-18,15:30,UTSA Roadrunners,true,both,regular,Mid-season addition
+Memphis Tigers,,2025,9,2025-11-01,15:30,East Carolina Pirates,true,both,regular,Mid-season addition
+Memphis Tigers,,2025,11,2025-11-15,15:30,Tulsa Golden Hurricane,true,both,regular,Mid-season addition
+Boise State Broncos,,2025,9,2025-11-01,15:30,Air Force Falcons,true,both,regular,Mid-season addition
+Boise State Broncos,,2025,11,2025-11-15,15:30,Colorado State Rams,true,both,regular,Mid-season addition
+Boise State Broncos,,2025,13,2025-11-29,15:30,Nevada Wolf Pack,true,both,regular,Mid-season addition
+James Madison Dukes,,2025,11,2025-11-15,15:30,Coastal Carolina Chanticleers,true,both,regular,Mid-season addition
+James Madison Dukes,,2025,13,2025-11-29,15:30,Marshall Thundering Herd,true,both,regular,Mid-season addition

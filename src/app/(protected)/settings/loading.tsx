@@ -1,0 +1,44 @@
+import { Settings } from "lucide-react";
+import { Skeleton } from "@/components/ui/skeleton";
+
+export default function SettingsLoading() {
+    return (
+        <div className="space-y-6">
+            <div className="flex items-center gap-3">
+                <Settings className="h-8 w-8 text-primary" />
+                <div>
+                    <h1 className="text-2xl font-bold">Settings</h1>
+                    <p className="text-muted-foreground">
+                        Hub configuration, optimizer settings, and preferred flight routes
+                    </p>
+                </div>
+            </div>
+
+            {/* Tabs skeleton */}
+            <div className="flex gap-2">
+                <Skeleton className="h-9 w-36" />
+                <Skeleton className="h-9 w-36" />
+                <Skeleton className="h-9 w-36" />
+            </div>
+
+            {/* Table skeleton */}
+            <div className="rounded-lg border">
+                <div className="border-b px-4 py-3 flex gap-8">
+                    {Array.from({ length: 6 }).map((_, i) => (
+                        <Skeleton key={i} className="h-4 w-24" />
+                    ))}
+                </div>
+                {Array.from({ length: 5 }).map((_, i) => (
+                    <div key={i} className="border-b px-4 py-3 flex gap-8">
+                        <Skeleton className="h-4 w-20" />
+                        <Skeleton className="h-4 w-20" />
+                        <Skeleton className="h-4 w-28" />
+                        <Skeleton className="h-4 w-16" />
+                        <Skeleton className="h-4 w-16" />
+                        <Skeleton className="h-4 w-10" />
+                    </div>
+                ))}
+            </div>
+        </div>
+    );
+}

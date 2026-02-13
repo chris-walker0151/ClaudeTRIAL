@@ -1,0 +1,15 @@
+vehicle_name,vehicle_type,home_hub,capacity_lbs,capacity_cuft,status,notes
+Truck-CLE-01,truck_and_trailer,Cleveland,12000,2800,active,53ft trailer
+Truck-CLE-02,truck_and_trailer,Cleveland,12000,2800,active,
+Truck-CLE-03,truck,Cleveland,6000,1400,active,Box truck
+Van-CLE-01,van,Cleveland,3000,400,active,Service van
+Trailer-CLE-01,trailer,Cleveland,8000,2000,active,Pairs with box truck
+Truck-KC-01,truck_and_trailer,Kansas City,12000,2800,active,
+Truck-KC-02,truck_and_trailer,Kansas City,12000,2800,active,
+Truck-KC-03,truck,Kansas City,6000,1400,active,
+Van-KC-01,van,Kansas City,3000,400,active,
+Trailer-KC-01,trailer,Kansas City,8000,2000,active,
+Truck-JAX-01,truck_and_trailer,Jacksonville,12000,2800,active,
+Truck-JAX-02,truck,Jacksonville,6000,1400,active,
+Van-JAX-01,van,Jacksonville,3000,400,active,
+Trailer-JAX-01,trailer,Jacksonville,8000,2000,active,

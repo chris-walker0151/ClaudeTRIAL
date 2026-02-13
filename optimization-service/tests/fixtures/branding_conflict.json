@@ -1,0 +1,65 @@
+{
+    "description": "Ohio State venue needs branded assets, but assets have Penn State branding",
+    "season_year": 2025,
+    "week_number": 6,
+    "hubs": [
+        {"id": "hub-cle-001", "name": "Cleveland", "city": "Cleveland", "state": "OH", "address": "1 Hub Way", "lat": 41.4993, "lng": -81.6944}
+    ],
+    "games": [
+        {
+            "id": "game-osu",
+            "customer_id": "cust-osu",
+            "customer_name": "Ohio State Buckeyes",
+            "venue_id": "venue-osu",
+            "season_year": 2025,
+            "week_number": 6,
+            "game_date": "2025-10-11",
+            "game_time": "12:00",
+            "opponent": "Penn State",
+            "is_home_game": true,
+            "sidelines_served": "both",
+            "season_phase": "regular"
+        }
+    ],
+    "venues": [
+        {
+            "id": "venue-osu",
+            "customer_id": "cust-osu",
+            "name": "Ohio Stadium",
+            "address": "411 Woody Hayes Dr, Columbus, OH 43210",
+            "city": "Columbus",
+            "state": "OH",
+            "lat": 40.0017,
+            "lng": -83.0195,
+            "is_primary": true
+        }
+    ],
+    "contract_items": [
+        {"id": "ci-osu-1", "contract_id": "c-osu", "customer_id": "cust-osu", "customer_name": "Ohio State Buckeyes", "asset_type": "heated_bench", "quantity": 3, "model_version": null, "branding_spec": "Ohio State Buckeyes"},
+        {"id": "ci-osu-2", "contract_id": "c-osu", "customer_id": "cust-osu", "customer_name": "Ohio State Buckeyes", "asset_type": "dragon_shader", "quantity": 3, "model_version": null, "branding_spec": "Ohio State Buckeyes"},
+        {"id": "ci-osu-3", "contract_id": "c-osu", "customer_id": "cust-osu", "customer_name": "Ohio State Buckeyes", "asset_type": "heated_foot_deck", "quantity": 3, "model_version": null, "branding_spec": "Ohio State Buckeyes"}
+    ],
+    "assets": [
+        {"id": "a-hb-1", "serial_number": "HB-CLE-201", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Penn State Nittany Lions"},
+        {"id": "a-hb-2", "serial_number": "HB-CLE-202", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Penn State Nittany Lions"},
+        {"id": "a-hb-3", "serial_number": "HB-CLE-203", "asset_type": "heated_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": "Penn State Nittany Lions"},
+        {"id": "a-ds-1", "serial_number": "DS-CLE-201", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": "Penn State Nittany Lions"},
+        {"id": "a-ds-2", "serial_number": "DS-CLE-202", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": "Penn State Nittany Lions"},
+        {"id": "a-ds-3", "serial_number": "DS-CLE-203", "asset_type": "dragon_shader", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 200, "current_branding": "Penn State Nittany Lions"},
+        {"id": "a-fd-1", "serial_number": "FD-CLE-201", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Penn State Nittany Lions"},
+        {"id": "a-fd-2", "serial_number": "FD-CLE-202", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Penn State Nittany Lions"},
+        {"id": "a-fd-3", "serial_number": "FD-CLE-203", "asset_type": "heated_foot_deck", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 50, "current_branding": "Penn State Nittany Lions"}
+    ],
+    "vehicles": [
+        {"id": "veh-001", "name": "Truck-CLE-01", "type": "truck_and_trailer", "home_hub_id": "hub-cle-001", "capacity_lbs": 10000, "capacity_cuft": 800, "status": "active"}
+    ],
+    "personnel": [
+        {"id": "person-001", "name": "John Driver", "role": "driver", "home_hub_id": "hub-cle-001", "skills": ["cdl"], "max_drive_hrs": 11}
+    ],
+    "branding_tasks": [
+        {"id": "bt-1", "asset_id": "a-hb-1", "from_branding": "Penn State Nittany Lions", "to_branding": "Ohio State Buckeyes", "hub_id": "hub-cle-001", "needed_by_date": "2025-10-10", "status": "pending"},
+        {"id": "bt-2", "asset_id": "a-hb-2", "from_branding": "Penn State Nittany Lions", "to_branding": "Ohio State Buckeyes", "hub_id": "hub-cle-001", "needed_by_date": "2025-10-10", "status": "pending"},
+        {"id": "bt-3", "asset_id": "a-hb-3", "from_branding": "Penn State Nittany Lions", "to_branding": "Ohio State Buckeyes", "hub_id": "hub-cle-001", "needed_by_date": "2025-10-10", "status": "pending"}
+    ],
+    "asset_assignments": []
+}

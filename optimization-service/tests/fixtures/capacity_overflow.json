@@ -1,0 +1,46 @@
+{
+    "description": "2 venues, 1 small vehicle (1000 lbs) — not enough capacity for both",
+    "season_year": 2025,
+    "week_number": 5,
+    "hubs": [
+        {"id": "hub-cle-001", "name": "Cleveland", "city": "Cleveland", "state": "OH", "address": "1 Hub Way", "lat": 41.4993, "lng": -81.6944}
+    ],
+    "games": [
+        {"id": "game-001", "customer_id": "cust-a", "customer_name": "Team Alpha", "venue_id": "venue-a", "season_year": 2025, "week_number": 5, "game_date": "2025-10-04", "game_time": "13:00", "opponent": "Rival", "is_home_game": true, "sidelines_served": "both", "season_phase": "regular"},
+        {"id": "game-002", "customer_id": "cust-b", "customer_name": "Team Beta", "venue_id": "venue-b", "season_year": 2025, "week_number": 5, "game_date": "2025-10-04", "game_time": "16:00", "opponent": "Rival B", "is_home_game": true, "sidelines_served": "both", "season_phase": "regular"}
+    ],
+    "venues": [
+        {"id": "venue-a", "customer_id": "cust-a", "name": "Alpha Stadium", "address": "100 Alpha Way", "city": "Akron", "state": "OH", "lat": 41.0753, "lng": -81.5097, "is_primary": true},
+        {"id": "venue-b", "customer_id": "cust-b", "name": "Beta Arena", "address": "200 Beta St", "city": "Canton", "state": "OH", "lat": 40.7989, "lng": -81.3784, "is_primary": true}
+    ],
+    "contract_items": [
+        {"id": "ci-a1", "contract_id": "c-a", "customer_id": "cust-a", "customer_name": "Team Alpha", "asset_type": "hybrid_bench", "quantity": 8, "model_version": null, "branding_spec": null},
+        {"id": "ci-b1", "contract_id": "c-b", "customer_id": "cust-b", "customer_name": "Team Beta", "asset_type": "hybrid_bench", "quantity": 8, "model_version": null, "branding_spec": null}
+    ],
+    "assets": [
+        {"id": "a-01", "serial_number": "HB-001", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-02", "serial_number": "HB-002", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-03", "serial_number": "HB-003", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-04", "serial_number": "HB-004", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-05", "serial_number": "HB-005", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-06", "serial_number": "HB-006", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-07", "serial_number": "HB-007", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-08", "serial_number": "HB-008", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-09", "serial_number": "HB-009", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-10", "serial_number": "HB-010", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-11", "serial_number": "HB-011", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-12", "serial_number": "HB-012", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-13", "serial_number": "HB-013", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-14", "serial_number": "HB-014", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-15", "serial_number": "HB-015", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null},
+        {"id": "a-16", "serial_number": "HB-016", "asset_type": "hybrid_bench", "model_version": null, "condition": "good", "status": "at_hub", "home_hub_id": "hub-cle-001", "current_hub": "hub-cle-001", "current_venue_id": null, "weight_lbs": 150, "current_branding": null}
+    ],
+    "vehicles": [
+        {"id": "veh-small", "name": "Van-CLE-01", "type": "van", "home_hub_id": "hub-cle-001", "capacity_lbs": 1000, "capacity_cuft": 200, "status": "active"}
+    ],
+    "personnel": [
+        {"id": "person-001", "name": "John Driver", "role": "driver", "home_hub_id": "hub-cle-001", "skills": ["cdl"], "max_drive_hrs": 11}
+    ],
+    "branding_tasks": [],
+    "asset_assignments": []
+}
